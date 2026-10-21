@@ -35,6 +35,27 @@ captured fragment.
 
 ---
 
+## Deployment
+
+This repo is deployed to **Bunny Storage** (`tiptiphybrid`, Frankfurt) behind the
+CDN pull zone `tiptophybrid` → <https://tiptophybrid.b-cdn.net>.
+
+```bash
+cd app && npm install && npm run build   # -> app/dist
+# from the parent websites/ directory:
+bash scripts/bunny/deploy.sh tiptophybrid.com --purge
+```
+
+The site is registered in `websites/.repos.json` with `deploy.localDir: "app/dist"`.
+Bunny credentials live in the gitignored `.env` of this directory (template:
+`.env.example`).
+
+> `www.tiptophybrid.com` is **not** attached to the pull zone yet — DNS still
+> points at the original WordPress host. Canonical, Open Graph and JSON-LD URLs
+> intentionally point at `https://www.tiptophybrid.com`.
+
+---
+
 ## How the site was captured
 
 `www.tiptophybrid.com` refuses TCP connections from datacenter IPs, so the pages
