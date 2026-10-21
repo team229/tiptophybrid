@@ -1,0 +1,37 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getPage } from '../data/pages';
+
+const page = getPage('home')!;
+---
+
+<BaseLayout page={page}>
+  <div class="x-main full" role="main">
+    <article class="page type-page status-publish hentry no-post-thumbnail">
+      <div class="entry-content content">
+        <div class="x-section">
+          <div class="x-row x-container max width">
+            <div class="x-row-inner">
+              <div class="x-col">
+                <div class="x-text x-text-headline">
+                  <div class="x-text-content">
+                    <div class="x-text-content-text">
+                      <h1 class="x-text-content-text-primary">Page not found</h1>
+                    </div>
+                  </div>
+                </div>
+                <div class="x-text x-content">
+                  <p>
+                    The page you are looking for could not be found. Head back to the
+                    <a href="/">home page</a> or request a
+                    <a href="/free-estimate/">free online estimate</a>.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </article>
+  </div>
+</BaseLayout>

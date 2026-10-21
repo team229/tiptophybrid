@@ -1,0 +1,49 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getFragment } from '../data/content';
+import { getPage, PAGES } from '../data/pages';
+
+export function getStaticPaths() {
+  return PAGES.filter((p) => p.slug !== 'home').map((page) => ({
+    // `blogs__page__2` becomes the nested URL /blogs/page/2/
+    params: { slug: page.slug.replace('__page__', '/page/') },
+    props: { page },
+  }));
+}
+
+const { page } = Astro.props;
+const content = page.fragment
+  ? getFragment(page.fragment.replace('content/', '').replace(/\.html$/, ''))
+  : '';
+---
+
+<BaseLayout page={page}>
+  {
+    page.template === 'cs-content' && (
+      <div class="x-main full" role="main">
+        <article
+          id={`post-${page.slug}`}
+          class={`post-${page.slug} page type-page status-publish hentry no-post-thumbnail`}
+        >
+          <div class="entry-content content">
+            <div id="cs-content" class="cs-content" set:html={content} />
+          </div>
+        </article>
+      </div>
+    )
+  }
+
+  {/* The captured fragments for blog posts and the blog index already contain
+      their own `.x-main` wrapper, so they are injected as-is. */}
+  {(page.template === 'blog-archive' || page.template === 'entry-content') && (
+    <div class="x-container max width offset">
+      <Fragment set:html={content} />
+    </div>
+  )}
+
+  {
+    page.template === 'elementor-html' && (
+      <div class="elementor elementor-page" set:html={content} />
+    )
+  }
+</BaseLayout>

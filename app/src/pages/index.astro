@@ -1,0 +1,18 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getFragment } from '../data/content';
+import { getPage } from '../data/pages';
+
+const page = getPage('home')!;
+const content = getFragment('home');
+---
+
+<BaseLayout page={page}>
+  <div class="x-main full" role="main">
+    <article id="post-50" class="post-50 page type-page status-publish hentry no-post-thumbnail">
+      <div class="entry-content content">
+        <div id="cs-content" class="cs-content" set:html={content} />
+      </div>
+    </article>
+  </div>
+</BaseLayout>

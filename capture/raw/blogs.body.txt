@@ -1,0 +1,762 @@
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KF7BFWB9" height="0" width="0" style="display:none;visibility:hidden">
+</iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div id="page" class="hfeed site">
+		<header id="masthead" itemscope="itemscope" itemtype="https://schema.org/WPHeader">
+			<p class="main-title bhf-hidden" itemprop="headline">
+<a href="https://www.tiptophybrid.com/" title="Tip Top Auto Electric" rel="home">Tip Top Auto Electric</a>
+</p>
+			<!--STYLE-->		<div data-elementor-type="wp-post" data-elementor-id="460" class="elementor elementor-460">
+				<div class="elementor-element elementor-element-7b82523 e-con-full e-flex e-con e-parent" data-id="7b82523" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-fc5b3d9 elementor-widget elementor-widget-html" data-id="fc5b3d9" data-element_type="widget" data-e-type="widget" data-widget_type="html.default">
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tip Top Hybrid - Specialized Service</title>
+    <!--SCRIPT-->
+    <!--SCRIPT-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap" rel="stylesheet">
+    <!--STYLE-->
+</head>
+<body data-rsssl="1" class="bg-gray-800">
+<header id="main-header" class="pattern-background text-gray-200 font-medium shadow-lg">
+    <div class="container mx-auto px-4 sm:px-6">
+        <div class="hidden md:flex justify-between items-center py-2 border-b border-white/10 text-xs">
+            <div class="flex items-center space-x-6">
+                <a href="#toyota-specialist-section" class="flex items-center gap-2 hover:text-green-400 transition-colors">
+<i data-lucide="car" class="w-4 h-4 text-gray-300">
+</i>
+<span>Toyota Prius Specialist</span>
+</a>
+                <a href="mailto:TTACSTIPTOP@yahoo.com" class="flex items-center gap-2 hover:text-green-400 transition-colors">
+<i data-lucide="mail" class="w-4 h-4 text-gray-300">
+</i>
+<span>TTACSTIPTOP@yahoo.com</span>
+</a>
+                <a href="#testimonials" class="flex items-center gap-2 hover:text-green-400 transition-colors">
+<i data-lucide="award" class="w-4 h-4 text-gray-300">
+</i>
+<span>Top Rated</span>
+</a>
+            </div>
+            <div class="flex items-center gap-5">
+                <span class="text-gray-500 uppercase tracking-widest text-[10px]">Follow Us:</span>
+                <a href="https://www.facebook.com/profile.php?id=61584789488769" target="_blank" class="hover:text-green-400 transition-colors" aria-label="Facebook">
+                    <i data-lucide="facebook" class="w-5 h-5">
+</i>
+                </a>
+                <a href="https://www.instagram.com/tiptophybird/" target="_blank" class="hover:text-green-400 transition-colors" aria-label="Instagram">
+                    <i data-lucide="instagram" class="w-5 h-5">
+</i>
+                </a>
+                <a href="https://share.google/BfZnHIiSuT2CrrbE6" target="_blank" class="hover:text-green-400 transition-colors" aria-label="Google Business">
+                    <i data-lucide="map-pin" class="w-5 h-5">
+</i>
+                </a>
+            </div>
+        </div>
+        <nav class="flex items-center justify-between py-3">
+            <div class="flex flex-col">
+                <a href="/" class="flex-shrink-0">
+                    <img src="https://www.tiptophybrid.com/wp-content/uploads/2025/05/Tip-Top-Hybrid-Logo-White.png" alt="Tip Top Hybrid Logo" class="w-auto header-logo-img">
+                </a>
+                <div class="hidden md:block text-sm font-semibold text-gray-200 mt-1">
+                    <a href="tel:+19092387028" class="flex items-center gap-2 hover:text-green-400">
+                        <i data-lucide="phone" class="w-4 h-4 text-green-500">
+</i>
+<span>+1 909-238-7028</span>
+                    </a>
+                </div>
+            </div>
+            <div class="flex items-center gap-6">
+                <ul id="desktop-nav" class="hidden lg:flex items-center space-x-8 text-base">
+                    <li>
+<a href="/" class="nav-item hover:text-green-400 transition-colors">Home</a>
+</li>
+                    <li class="relative group">
+                        <a href="#" class="flex items-center hover:text-green-400 transition-colors">
+                            Services <i data-lucide="chevron-down" class="w-4 h-4 ml-1 transition-transform group-hover:rotate-180">
+</i>
+                        </a>
+                        <div class="absolute top-full left-1/2 -translate-x-1/2 mt-2 w-80 bg-[#2b2b2b] rounded-lg shadow-xl p-4 opacity-0 group-hover:opacity-100 invisible group-hover:visible transition-all duration-300 transform scale-95 group-hover:scale-100">
+                            <ul class="space-y-3 text-sm">
+                                <li>
+<a href="https://www.tiptophybrid.com/hybrid-transaxle-drivetrain-service/" class="block hover:text-green-400 transition-colors">Hybrid Transaxle &amp; Drivetrain Service</a>
+</li>
+                                <li>
+<a href="https://www.tiptophybrid.com/hybrid-engine-transmission-replacement/" class="block hover:text-green-400 transition-colors">Engine &amp; Transmission Replacement</a>
+</li>
+                                <li>
+<a href="https://www.tiptophybrid.com/inverter-water-pump-service/" class="block hover:text-green-400 transition-colors">Inverter Water Pump Service</a>
+</li>
+                                <li>
+<a href="https://www.tiptophybrid.com/inverter-brake-actuator-repair/" class="block hover:text-green-400 transition-colors">Inverter &amp; Brake Actuator Repair</a>
+</li>
+                                <li>
+<a href="https://www.tiptophybrid.com/high-voltage-system-repair/" class="block hover:text-green-400 transition-colors">High-Voltage System Repair</a>
+</li>
+                                <li>
+<a href="https://www.tiptophybrid.com/toyota-prius-battery-repair-replacement/" class="block hover:text-green-400 transition-colors">Hybrid Battery Repair &amp; Replacement</a>
+</li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+<a href="/testimonials/" class="nav-item hover:text-green-400 transition-colors">Testimonials</a>
+</li>
+                    <li>
+<a href="/blogs/" class="nav-item hover:text-green-400 transition-colors">Blogs</a>
+</li>
+                    <li>
+<a href="/contact/" class="nav-item hover:text-green-400 transition-colors">Contact Us</a>
+</li>
+                </ul>
+                <a href="/free-estimate/" class="hidden lg:flex items-center bg-green-500 text-white font-bold py-2.5 px-6 rounded-lg shadow-md hover:bg-green-600 transition-colors text-base">
+                    <span>Free Estimate</span>
+                </a>
+                <div class="lg:hidden flex items-center gap-4">
+                    <a href="tel:+19092387028" class="flex items-center justify-center bg-green-500 text-white p-2 rounded-full shadow-lg">
+                        <i data-lucide="phone" class="w-5 h-5">
+</i>
+                    </a>
+                    <button id="mobile-menu-button" class="text-white">
+                        <i data-lucide="menu" class="w-8 h-8">
+</i>
+                    </button>
+                </div>
+            </div>
+        </nav>
+    </div>
+</header>
+<div id="mobile-menu" class="mobile-menu hidden p-6">
+    <div class="flex justify-between items-center mb-8">
+        <img src="https://www.tiptophybrid.com/wp-content/uploads/2025/05/Tip-Top-Hybrid-Logo-White.png" alt="Logo" class="h-10 w-auto">
+        <button id="close-mobile-menu-button">
+<i data-lucide="x" class="w-8 h-8 text-white">
+</i>
+</button>
+    </div>
+    <ul class="flex flex-col space-y-5 text-lg font-medium text-white">
+        <li>
+<a href="/" class="nav-item hover:text-green-400 block py-2">Home</a>
+</li>
+        <li class="border-b border-white/10 pb-2">
+            <button id="mobile-services-toggle" class="flex items-center justify-between w-full hover:text-green-400 py-2">
+                Services <i data-lucide="chevron-down" class="w-5 h-5 transition-transform" id="services-chevron">
+</i>
+            </button>
+            <ul id="mobile-services-list" class="hidden flex flex-col space-y-4 mt-4 pl-4 text-base text-gray-400 border-l border-green-500/50">
+                <li>
+<a href="https://www.tiptophybrid.com/hybrid-transaxle-drivetrain-service/">Hybrid Transaxle &amp; Drivetrain</a>
+</li>
+                <li>
+<a href="https://www.tiptophybrid.com/hybrid-engine-transmission-replacement/">Engine &amp; Transmission</a>
+</li>
+                <li>
+<a href="https://www.tiptophybrid.com/inverter-water-pump-service/">Inverter Water Pump</a>
+</li>
+                <li>
+<a href="https://www.tiptophybrid.com/inverter-brake-actuator-repair/">Brake Actuator Repair</a>
+</li>
+                <li>
+<a href="https://www.tiptophybrid.com/high-voltage-system-repair/">High-Voltage Repair</a>
+</li>
+                <li>
+<a href="https://www.tiptophybrid.com/toyota-prius-battery-repair-replacement/">Hybrid Battery Repair</a>
+</li>
+            </ul>
+        </li>
+        <li>
+<a href="/testimonials/" class="nav-item hover:text-green-400 block py-2">Testimonials</a>
+</li>
+        <li>
+<a href="/blogs/" class="nav-item hover:text-green-400 block py-2">Blogs</a>
+</li>
+        <li>
+<a href="/contact/" class="nav-item hover:text-green-400 block py-2">Contact Us</a>
+</li>
+        <li class="border-t border-white/10 pt-4">
+             <a href="mailto:TTACSTIPTOP@yahoo.com" class="flex items-center gap-3 text-gray-300 hover:text-green-400 py-2">
+                <i data-lucide="mail" class="w-6 h-6">
+</i>
+                <span class="text-base">TTACSTIPTOP@yahoo.com</span>
+            </a>
+        </li>
+        <li class="pt-4 flex items-center gap-6">
+            <a href="https://www.facebook.com/profile.php?id=61584789488769" target="_blank" class="flex flex-col items-center gap-2 text-gray-300 hover:text-green-400 transition-colors">
+                <i data-lucide="facebook" class="w-7 h-7">
+</i>
+                <span class="text-[10px] uppercase">Facebook</span>
+            </a>
+            <a href="https://www.instagram.com/tip_top_hybrid_?igsh=dWs3dmVzcmZsZDBn&utm_source=qr" target="_blank" class="flex flex-col items-center gap-2 text-gray-300 hover:text-green-400 transition-colors">
+                <i data-lucide="instagram" class="w-7 h-7">
+</i>
+                <span class="text-[10px] uppercase">Instagram</span>
+            </a>
+            <a href="https://share.google/BfZnHIiSuT2CrrbE6" target="_blank" class="flex flex-col items-center gap-2 text-gray-300 hover:text-green-400 transition-colors">
+                <i data-lucide="map-pin" class="w-7 h-7">
+</i>
+                <span class="text-[10px] uppercase">Google</span>
+            </a>
+        </li>
+        <li class="pt-2">
+            <a href="/free-estimate/" class="block text-center bg-green-500 text-white font-bold py-4 rounded-lg shadow-xl">
+                Get Free Estimate
+            </a>
+        </li>
+    </ul>
+</div>
+<div class="md:hidden fixed bottom-0 left-0 right-0 z-[9999] flex bg-black border-t border-white/10 shadow-[0_-4px_10px_rgba(0,0,0,0.5)]">
+    <a href="tel:+19092387028" class="flex-1 flex flex-col items-center justify-center py-3 bg-[#111] hover:bg-green-600 transition-colors border-r border-white/5">
+        <i data-lucide="phone-call" class="w-5 h-5 text-green-500 mb-1">
+</i>
+        <span class="text-[10px] font-bold text-white uppercase tracking-wider">Call Now</span>
+    </a>
+    <a href="#gform_wrapper_1" class="flex-1 flex flex-col items-center justify-center py-3 bg-[#111] hover:bg-green-600 transition-colors">
+        <i data-lucide="mail" class="w-5 h-5 text-green-500 mb-1">
+</i>
+        <span class="text-[10px] font-bold text-white uppercase tracking-wider">Contact</span>
+    </a>
+</div>
+<!--SCRIPT-->
+</body>
+</html>				</div>
+				</div>
+				</div>
+				</header>
+  <div class="x-container max width offset">
+    <div class="x-main full" role="main">
+<article id="post-1448" class="post-1448 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+  <div class="entry-featured">
+    <a href="https://www.tiptophybrid.com/why-is-my-hybrid-cars-cooling-fan-running-so-loudly/" class="entry-thumb" title="Permalink to: &quot;Why Is My Hybrid Car’s Cooling Fan Running So Loudly?&quot;">
+<img fetchpriority="high" width="1200" height="800" src="https://www.tiptophybrid.com/wp-content/uploads/2026/10/hybrid-battery-cooling-fan-noise-1200x800.png" class="attachment-entry-fullwidth size-entry-fullwidth wp-post-image" alt="hybrid battery cooling fan noise" decoding="async" srcset="https://www.tiptophybrid.com/wp-content/uploads/2026/10/hybrid-battery-cooling-fan-noise-1200x800.png 1200w, https://www.tiptophybrid.com/wp-content/uploads/2026/10/hybrid-battery-cooling-fan-noise-300x200.png 300w, https://www.tiptophybrid.com/wp-content/uploads/2026/10/hybrid-battery-cooling-fan-noise-1024x683.png 1024w, https://www.tiptophybrid.com/wp-content/uploads/2026/10/hybrid-battery-cooling-fan-noise-768x512.png 768w, https://www.tiptophybrid.com/wp-content/uploads/2026/10/hybrid-battery-cooling-fan-noise-100x67.png 100w, https://www.tiptophybrid.com/wp-content/uploads/2026/10/hybrid-battery-cooling-fan-noise.png 1536w" sizes="(max-width: 1200px) 100vw, 1200px">
+</a>  </div>
+  <div class="entry-wrap">
+<header class="entry-header">
+    <h2 class="entry-title">
+    <a href="https://www.tiptophybrid.com/why-is-my-hybrid-cars-cooling-fan-running-so-loudly/" title="Permalink to: &quot;Why Is My Hybrid Car’s Cooling Fan Running So Loudly?&quot;">Why Is My Hybrid Car’s Cooling Fan Running So Loudly?</a>
+  </h2>
+    </header>    
+<div class="entry-content excerpt">
+  <p>If you notice your hybrid car’s cooling fan running louder than usual, it may be a sign that the hybrid battery is getting hot or the cooling system needs attention. Hybrid vehicles use dedicated cooling systems to regulate battery temperature and maintain efficient performance. When airflow is restricted or the battery generates excess heat, the cooling fan may operate more … </p>
+<div>
+<a href="https://www.tiptophybrid.com/why-is-my-hybrid-cars-cooling-fan-running-so-loudly/" class="more-link">Read More</a>
+</div>
+</div>
+  </div>
+</article>          
+<article id="post-1442" class="post-1442 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+  <div class="entry-featured">
+    <a href="https://www.tiptophybrid.com/why-does-a-hybrid-cars-battery-charge-level-keep-going-up-and-down/" class="entry-thumb" title="Permalink to: &quot;Why Does a Hybrid Car’s Battery Charge Level Keep Going Up and Down?&quot;">
+<img width="1200" height="800" src="https://www.tiptophybrid.com/wp-content/uploads/2026/10/hybrid-battery-charge-fluctuating-1200x800.png" class="attachment-entry-fullwidth size-entry-fullwidth wp-post-image" alt="hybrid battery charge fluctuating" decoding="async" srcset="https://www.tiptophybrid.com/wp-content/uploads/2026/10/hybrid-battery-charge-fluctuating-1200x800.png 1200w, https://www.tiptophybrid.com/wp-content/uploads/2026/10/hybrid-battery-charge-fluctuating-300x200.png 300w, https://www.tiptophybrid.com/wp-content/uploads/2026/10/hybrid-battery-charge-fluctuating-1024x683.png 1024w, https://www.tiptophybrid.com/wp-content/uploads/2026/10/hybrid-battery-charge-fluctuating-768x512.png 768w, https://www.tiptophybrid.com/wp-content/uploads/2026/10/hybrid-battery-charge-fluctuating-100x67.png 100w, https://www.tiptophybrid.com/wp-content/uploads/2026/10/hybrid-battery-charge-fluctuating.png 1536w" sizes="(max-width: 1200px) 100vw, 1200px">
+</a>  </div>
+  <div class="entry-wrap">
+<header class="entry-header">
+    <h2 class="entry-title">
+    <a href="https://www.tiptophybrid.com/why-does-a-hybrid-cars-battery-charge-level-keep-going-up-and-down/" title="Permalink to: &quot;Why Does a Hybrid Car’s Battery Charge Level Keep Going Up and Down?&quot;">Why Does a Hybrid Car’s Battery Charge Level Keep Going Up and Down?</a>
+  </h2>
+    </header>    
+<div class="entry-content excerpt">
+  <p>If you drive a hybrid vehicle, you may notice that the battery charge level increases and decreases frequently while driving. In many cases, this is completely normal. Hybrid vehicles automatically manage battery power to improve fuel efficiency, support acceleration, and keep the hybrid system operating efficiently. However, if your hybrid battery charge is fluctuating unusually, your vehicle may have a … </p>
+<div>
+<a href="https://www.tiptophybrid.com/why-does-a-hybrid-cars-battery-charge-level-keep-going-up-and-down/" class="more-link">Read More</a>
+</div>
+</div>
+  </div>
+</article>          
+<article id="post-1349" class="post-1349 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+  <div class="entry-featured">
+    <a href="https://www.tiptophybrid.com/honda-accord-hybrid-battery-problems-signs-diagnosis-repair-options/" class="entry-thumb" title="Permalink to: &quot;Honda Accord Hybrid Battery Problems: Signs, Diagnosis & Repair Options&quot;">
+<img width="1200" height="800" src="https://www.tiptophybrid.com/wp-content/uploads/2026/09/honda-accord-hybrid-battery-problems-1200x800.png" class="attachment-entry-fullwidth size-entry-fullwidth wp-post-image" alt="honda accord hybrid battery problems" decoding="async" srcset="https://www.tiptophybrid.com/wp-content/uploads/2026/09/honda-accord-hybrid-battery-problems-1200x800.png 1200w, https://www.tiptophybrid.com/wp-content/uploads/2026/09/honda-accord-hybrid-battery-problems-300x200.png 300w, https://www.tiptophybrid.com/wp-content/uploads/2026/09/honda-accord-hybrid-battery-problems-1024x683.png 1024w, https://www.tiptophybrid.com/wp-content/uploads/2026/09/honda-accord-hybrid-battery-problems-768x512.png 768w, https://www.tiptophybrid.com/wp-content/uploads/2026/09/honda-accord-hybrid-battery-problems-100x67.png 100w, https://www.tiptophybrid.com/wp-content/uploads/2026/09/honda-accord-hybrid-battery-problems.png 1536w" sizes="(max-width: 1200px) 100vw, 1200px">
+</a>  </div>
+  <div class="entry-wrap">
+<header class="entry-header">
+    <h2 class="entry-title">
+    <a href="https://www.tiptophybrid.com/honda-accord-hybrid-battery-problems-signs-diagnosis-repair-options/" title="Permalink to: &quot;Honda Accord Hybrid Battery Problems: Signs, Diagnosis & Repair Options&quot;">Honda Accord Hybrid Battery Problems: Signs, Diagnosis &amp; Repair Options</a>
+  </h2>
+    </header>    
+<div class="entry-content excerpt">
+  <p>The Honda Accord Hybrid combines a gasoline engine with an electric motor and a high-voltage hybrid battery to improve fuel efficiency and driving performance. Like any major vehicle component, the hybrid battery can eventually experience wear or develop problems. Recognizing the warning signs early can help prevent unexpected drivability issues and allow you to determine whether repair, reconditioning, or replacement … </p>
+<div>
+<a href="https://www.tiptophybrid.com/honda-accord-hybrid-battery-problems-signs-diagnosis-repair-options/" class="more-link">Read More</a>
+</div>
+</div>
+  </div>
+</article>          
+<article id="post-1343" class="post-1343 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+  <div class="entry-featured">
+    <a href="https://www.tiptophybrid.com/toyota-prius-p0a80-code-what-it-means-and-what-to-do-next/" class="entry-thumb" title="Permalink to: &quot;Toyota Prius P0A80 Code: What It Means and What to Do Next&quot;">
+<img width="1200" height="800" src="https://www.tiptophybrid.com/wp-content/uploads/2026/09/toyota-prius-P0A80-code-1200x800.png" class="attachment-entry-fullwidth size-entry-fullwidth wp-post-image" alt="toyota prius P0A80 code" decoding="async" srcset="https://www.tiptophybrid.com/wp-content/uploads/2026/09/toyota-prius-P0A80-code-1200x800.png 1200w, https://www.tiptophybrid.com/wp-content/uploads/2026/09/toyota-prius-P0A80-code-300x200.png 300w, https://www.tiptophybrid.com/wp-content/uploads/2026/09/toyota-prius-P0A80-code-1024x683.png 1024w, https://www.tiptophybrid.com/wp-content/uploads/2026/09/toyota-prius-P0A80-code-768x512.png 768w, https://www.tiptophybrid.com/wp-content/uploads/2026/09/toyota-prius-P0A80-code-100x67.png 100w, https://www.tiptophybrid.com/wp-content/uploads/2026/09/toyota-prius-P0A80-code.png 1536w" sizes="(max-width: 1200px) 100vw, 1200px">
+</a>  </div>
+  <div class="entry-wrap">
+<header class="entry-header">
+    <h2 class="entry-title">
+    <a href="https://www.tiptophybrid.com/toyota-prius-p0a80-code-what-it-means-and-what-to-do-next/" title="Permalink to: &quot;Toyota Prius P0A80 Code: What It Means and What to Do Next&quot;">Toyota Prius P0A80 Code: What It Means and What to Do Next</a>
+  </h2>
+    </header>    
+<div class="entry-content excerpt">
+  <p>If your Toyota Prius has triggered the P0A80 diagnostic trouble code, it is a sign that the vehicle’s hybrid battery system has detected a problem that needs attention. For many Prius owners, seeing a check-engine light or a “Check Hybrid System” warning can be concerning, especially when the vehicle still appears to drive normally. The P0A80 code is commonly described … </p>
+<div>
+<a href="https://www.tiptophybrid.com/toyota-prius-p0a80-code-what-it-means-and-what-to-do-next/" class="more-link">Read More</a>
+</div>
+</div>
+  </div>
+</article>          
+<article id="post-1316" class="post-1316 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+  <div class="entry-featured">
+    <a href="https://www.tiptophybrid.com/can-a-prius-hybrid-battery-be-repaired-instead-of-replaced/" class="entry-thumb" title="Permalink to: &quot;Can a Prius Hybrid Battery Be Repaired Instead of Replaced?&quot;">
+<img width="1200" height="799" src="https://www.tiptophybrid.com/wp-content/uploads/2026/09/prius-hybrid-battery-repair-1200x799.png" class="attachment-entry-fullwidth size-entry-fullwidth wp-post-image" alt="prius hybrid battery repair" decoding="async" srcset="https://www.tiptophybrid.com/wp-content/uploads/2026/09/prius-hybrid-battery-repair-1200x799.png 1200w, https://www.tiptophybrid.com/wp-content/uploads/2026/09/prius-hybrid-battery-repair-300x200.png 300w, https://www.tiptophybrid.com/wp-content/uploads/2026/09/prius-hybrid-battery-repair-1024x682.png 1024w, https://www.tiptophybrid.com/wp-content/uploads/2026/09/prius-hybrid-battery-repair-768x512.png 768w, https://www.tiptophybrid.com/wp-content/uploads/2026/09/prius-hybrid-battery-repair-100x67.png 100w, https://www.tiptophybrid.com/wp-content/uploads/2026/09/prius-hybrid-battery-repair.png 1336w" sizes="(max-width: 1200px) 100vw, 1200px">
+</a>  </div>
+  <div class="entry-wrap">
+<header class="entry-header">
+    <h2 class="entry-title">
+    <a href="https://www.tiptophybrid.com/can-a-prius-hybrid-battery-be-repaired-instead-of-replaced/" title="Permalink to: &quot;Can a Prius Hybrid Battery Be Repaired Instead of Replaced?&quot;">Can a Prius Hybrid Battery Be Repaired Instead of Replaced?</a>
+  </h2>
+    </header>    
+<div class="entry-content excerpt">
+  <p>If your Toyota Prius is showing a warning light, losing fuel efficiency, or experiencing sluggish acceleration, you may immediately assume that the hybrid battery needs to be replaced. However, a Prius hybrid battery can sometimes be repaired or reconditioned instead of completely replaced. A hybrid battery is made up of multiple cells or modules that work together as a battery … </p>
+<div>
+<a href="https://www.tiptophybrid.com/can-a-prius-hybrid-battery-be-repaired-instead-of-replaced/" class="more-link">Read More</a>
+</div>
+</div>
+  </div>
+</article>          
+<article id="post-1309" class="post-1309 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+  <div class="entry-featured">
+    <a href="https://www.tiptophybrid.com/toyota-prius-red-triangle-warning-light-causes-and-repair-options/" class="entry-thumb" title="Permalink to: &quot;Toyota Prius Red Triangle Warning Light: Causes and Repair Options&quot;">
+<img width="1200" height="800" src="https://www.tiptophybrid.com/wp-content/uploads/2026/09/toyota-prius-red-triangle-warning-light-1200x800.png" class="attachment-entry-fullwidth size-entry-fullwidth wp-post-image" alt="toyota prius red triangle warning light" decoding="async" srcset="https://www.tiptophybrid.com/wp-content/uploads/2026/09/toyota-prius-red-triangle-warning-light-1200x800.png 1200w, https://www.tiptophybrid.com/wp-content/uploads/2026/09/toyota-prius-red-triangle-warning-light-300x200.png 300w, https://www.tiptophybrid.com/wp-content/uploads/2026/09/toyota-prius-red-triangle-warning-light-1024x683.png 1024w, https://www.tiptophybrid.com/wp-content/uploads/2026/09/toyota-prius-red-triangle-warning-light-768x512.png 768w, https://www.tiptophybrid.com/wp-content/uploads/2026/09/toyota-prius-red-triangle-warning-light-100x67.png 100w, https://www.tiptophybrid.com/wp-content/uploads/2026/09/toyota-prius-red-triangle-warning-light.png 1536w" sizes="(max-width: 1200px) 100vw, 1200px">
+</a>  </div>
+  <div class="entry-wrap">
+<header class="entry-header">
+    <h2 class="entry-title">
+    <a href="https://www.tiptophybrid.com/toyota-prius-red-triangle-warning-light-causes-and-repair-options/" title="Permalink to: &quot;Toyota Prius Red Triangle Warning Light: Causes and Repair Options&quot;">Toyota Prius Red Triangle Warning Light: Causes and Repair Options</a>
+  </h2>
+    </header>    
+<div class="entry-content excerpt">
+  <p>If you own a Toyota Prius and suddenly see a red triangle warning light on the dashboard, it can be concerning. Often called the “red triangle of death,” this warning indicates that the vehicle’s computer has detected a problem that requires attention. The red triangle itself does not identify one specific failed component. It is a master warning indicator, meaning … </p>
+<div>
+<a href="https://www.tiptophybrid.com/toyota-prius-red-triangle-warning-light-causes-and-repair-options/" class="more-link">Read More</a>
+</div>
+</div>
+  </div>
+</article>          
+<article id="post-1302" class="post-1302 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+  <div class="entry-featured">
+    <a href="https://www.tiptophybrid.com/toyota-prius-hybrid-battery-replacement-cost-2026/" class="entry-thumb" title="Permalink to: &quot;How Much Does Toyota Prius Hybrid Battery Replacement Cost in 2026?&quot;">
+<img width="1200" height="800" src="https://www.tiptophybrid.com/wp-content/uploads/2026/09/toyota-prius-hybrid-battery-replacement-cost-1200x800.png" class="attachment-entry-fullwidth size-entry-fullwidth wp-post-image" alt="toyota prius hybrid battery replacement cost" decoding="async" srcset="https://www.tiptophybrid.com/wp-content/uploads/2026/09/toyota-prius-hybrid-battery-replacement-cost-1200x800.png 1200w, https://www.tiptophybrid.com/wp-content/uploads/2026/09/toyota-prius-hybrid-battery-replacement-cost-300x200.png 300w, https://www.tiptophybrid.com/wp-content/uploads/2026/09/toyota-prius-hybrid-battery-replacement-cost-1024x683.png 1024w, https://www.tiptophybrid.com/wp-content/uploads/2026/09/toyota-prius-hybrid-battery-replacement-cost-768x512.png 768w, https://www.tiptophybrid.com/wp-content/uploads/2026/09/toyota-prius-hybrid-battery-replacement-cost-100x67.png 100w, https://www.tiptophybrid.com/wp-content/uploads/2026/09/toyota-prius-hybrid-battery-replacement-cost.png 1536w" sizes="(max-width: 1200px) 100vw, 1200px">
+</a>  </div>
+  <div class="entry-wrap">
+<header class="entry-header">
+    <h2 class="entry-title">
+    <a href="https://www.tiptophybrid.com/toyota-prius-hybrid-battery-replacement-cost-2026/" title="Permalink to: &quot;How Much Does Toyota Prius Hybrid Battery Replacement Cost in 2026?&quot;">How Much Does Toyota Prius Hybrid Battery Replacement Cost in 2026?</a>
+  </h2>
+    </header>    
+<div class="entry-content excerpt">
+  <p>If you drive a Toyota Prius and are experiencing reduced fuel economy, sluggish acceleration, warning lights, or other hybrid-system problems, you may be wondering whether the hybrid battery is failing—and, more importantly, how much Toyota Prius hybrid battery replacement costs in 2026. The cost can vary significantly depending on the Prius model year, battery condition, replacement option, labor, and whether … </p>
+<div>
+<a href="https://www.tiptophybrid.com/toyota-prius-hybrid-battery-replacement-cost-2026/" class="more-link">Read More</a>
+</div>
+</div>
+  </div>
+</article>          
+<article id="post-1227" class="post-1227 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+  <div class="entry-featured">
+    <a href="https://www.tiptophybrid.com/how-to-extend-the-life-of-a-hybrid-car-battery/" class="entry-thumb" title="Permalink to: &quot;How to Extend the Life of a Hybrid Car Battery?&quot;">
+<img width="1200" height="800" src="https://www.tiptophybrid.com/wp-content/uploads/2026/08/how-to-extend-the-life-of-a-hybrid-car-battery​-1200x800.png" class="attachment-entry-fullwidth size-entry-fullwidth wp-post-image" alt="how to extend the life of a hybrid car battery​" decoding="async" srcset="https://www.tiptophybrid.com/wp-content/uploads/2026/08/how-to-extend-the-life-of-a-hybrid-car-battery​-1200x800.png 1200w, https://www.tiptophybrid.com/wp-content/uploads/2026/08/how-to-extend-the-life-of-a-hybrid-car-battery​-300x200.png 300w, https://www.tiptophybrid.com/wp-content/uploads/2026/08/how-to-extend-the-life-of-a-hybrid-car-battery​-1024x683.png 1024w, https://www.tiptophybrid.com/wp-content/uploads/2026/08/how-to-extend-the-life-of-a-hybrid-car-battery​-768x512.png 768w, https://www.tiptophybrid.com/wp-content/uploads/2026/08/how-to-extend-the-life-of-a-hybrid-car-battery​-100x67.png 100w, https://www.tiptophybrid.com/wp-content/uploads/2026/08/how-to-extend-the-life-of-a-hybrid-car-battery​.png 1536w" sizes="(max-width: 1200px) 100vw, 1200px">
+</a>  </div>
+  <div class="entry-wrap">
+<header class="entry-header">
+    <h2 class="entry-title">
+    <a href="https://www.tiptophybrid.com/how-to-extend-the-life-of-a-hybrid-car-battery/" title="Permalink to: &quot;How to Extend the Life of a Hybrid Car Battery?&quot;">How to Extend the Life of a Hybrid Car Battery?</a>
+  </h2>
+    </header>    
+<div class="entry-content excerpt">
+  <p>Hybrid vehicles are designed to combine gasoline engines with electric power for improved efficiency and smoother driving. One of the most important components in a hybrid vehicle is the high-voltage battery. If you own a hybrid, you may wonder how to extend the life of a hybrid car battery and avoid premature battery problems. Although hybrid batteries will ultimately deteriorate … </p>
+<div>
+<a href="https://www.tiptophybrid.com/how-to-extend-the-life-of-a-hybrid-car-battery/" class="more-link">Read More</a>
+</div>
+</div>
+  </div>
+</article>          
+<article id="post-1221" class="post-1221 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+  <div class="entry-featured">
+    <a href="https://www.tiptophybrid.com/how-long-do-hybrid-batteries-last/" class="entry-thumb" title="Permalink to: &quot;How Long Do Hybrid Batteries Last?&quot;">
+<img width="1200" height="800" src="https://www.tiptophybrid.com/wp-content/uploads/2026/08/how-long-do-hybrid-batteries-last-1200x800.png" class="attachment-entry-fullwidth size-entry-fullwidth wp-post-image" alt="how long do hybrid batteries last" decoding="async" srcset="https://www.tiptophybrid.com/wp-content/uploads/2026/08/how-long-do-hybrid-batteries-last-1200x800.png 1200w, https://www.tiptophybrid.com/wp-content/uploads/2026/08/how-long-do-hybrid-batteries-last-300x200.png 300w, https://www.tiptophybrid.com/wp-content/uploads/2026/08/how-long-do-hybrid-batteries-last-1024x683.png 1024w, https://www.tiptophybrid.com/wp-content/uploads/2026/08/how-long-do-hybrid-batteries-last-768x512.png 768w, https://www.tiptophybrid.com/wp-content/uploads/2026/08/how-long-do-hybrid-batteries-last-100x67.png 100w, https://www.tiptophybrid.com/wp-content/uploads/2026/08/how-long-do-hybrid-batteries-last.png 1536w" sizes="(max-width: 1200px) 100vw, 1200px">
+</a>  </div>
+  <div class="entry-wrap">
+<header class="entry-header">
+    <h2 class="entry-title">
+    <a href="https://www.tiptophybrid.com/how-long-do-hybrid-batteries-last/" title="Permalink to: &quot;How Long Do Hybrid Batteries Last?&quot;">How Long Do Hybrid Batteries Last?</a>
+  </h2>
+    </header>    
+<div class="entry-content excerpt">
+  <p>If you own a hybrid vehicle, one of the most common questions you may have is: how long do hybrid batteries last? The hybrid battery is one of the most important components in the vehicle because it works with the electric motor and gasoline engine to improve fuel efficiency and performance. In general, a well-maintained hybrid battery can last approximately … </p>
+<div>
+<a href="https://www.tiptophybrid.com/how-long-do-hybrid-batteries-last/" class="more-link">Read More</a>
+</div>
+</div>
+  </div>
+</article>          
+<article id="post-1213" class="post-1213 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+  <div class="entry-featured">
+    <a href="https://www.tiptophybrid.com/what-does-a-hybrid-diagnostic-test-check/" class="entry-thumb" title="Permalink to: &quot;What Does a Hybrid Diagnostic Test Check?&quot;">
+<img width="1200" height="800" src="https://www.tiptophybrid.com/wp-content/uploads/2026/08/hybrid-diagnostic-test-1200x800.png" class="attachment-entry-fullwidth size-entry-fullwidth wp-post-image" alt="hybrid diagnostic test" decoding="async" srcset="https://www.tiptophybrid.com/wp-content/uploads/2026/08/hybrid-diagnostic-test-1200x800.png 1200w, https://www.tiptophybrid.com/wp-content/uploads/2026/08/hybrid-diagnostic-test-300x200.png 300w, https://www.tiptophybrid.com/wp-content/uploads/2026/08/hybrid-diagnostic-test-1024x683.png 1024w, https://www.tiptophybrid.com/wp-content/uploads/2026/08/hybrid-diagnostic-test-768x512.png 768w, https://www.tiptophybrid.com/wp-content/uploads/2026/08/hybrid-diagnostic-test-100x67.png 100w, https://www.tiptophybrid.com/wp-content/uploads/2026/08/hybrid-diagnostic-test.png 1536w" sizes="(max-width: 1200px) 100vw, 1200px">
+</a>  </div>
+  <div class="entry-wrap">
+<header class="entry-header">
+    <h2 class="entry-title">
+    <a href="https://www.tiptophybrid.com/what-does-a-hybrid-diagnostic-test-check/" title="Permalink to: &quot;What Does a Hybrid Diagnostic Test Check?&quot;">What Does a Hybrid Diagnostic Test Check?</a>
+  </h2>
+    </header>    
+<div class="entry-content excerpt">
+  <p>Hybrid vehicles combine a traditional gasoline engine with an electric motor, high-voltage battery, and several specialized electronic systems. When a warning light appears, fuel economy decreases, or your vehicle begins behaving differently, determining the exact cause can be more complicated than with a conventional vehicle. A hybrid diagnostic test helps identify problems within the vehicle’s electrical, electronic, mechanical, and hybrid … </p>
+<div>
+<a href="https://www.tiptophybrid.com/what-does-a-hybrid-diagnostic-test-check/" class="more-link">Read More</a>
+</div>
+</div>
+  </div>
+</article>      
+<div class="x-pagination">
+<ul class="center-list center-text">
+<li>
+<span class="pages">Page 1 of 6</span>
+</li>
+<li>
+</li>
+<li>
+<span class="current">1</span>
+</li>
+<li>
+<a href="https://www.tiptophybrid.com/blogs/page/2/" class="single_page" title="2">2</a>
+</li>
+<li>
+<a href="https://www.tiptophybrid.com/blogs/page/3/" class="single_page" title="3">3</a>
+</li>
+<li>
+<span class="expand">...</span>
+</li>
+<li>
+<a href="https://www.tiptophybrid.com/blogs/page/6/" class="last" title="Last Page">6</a>
+</li>
+<li>
+<a href="https://www.tiptophybrid.com/blogs/page/2/" class="prev-next hidden-phone">→</a>
+</li>
+</ul>
+</div>
+    </div>
+  </div>
+    </div> <!-- END .x-site -->
+   <!-- END .x-root -->
+<!--SCRIPT-->
+<!--STYLE-->
+<footer class="bg-gray-800 text-white pt-12 pb-6 border-t-4 border-brand-primary">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="grid grid-cols-2 md:grid-cols-4 gap-8">
+            <div>
+                <h3 class="text-lg font-semibold mb-4 text-brand-primary">Hybrid Services</h3>
+                <ul class="space-y-2 text-sm">
+                    <li>
+<a href="https://www.tiptophybrid.com/hybrid-transaxle-drivetrain-service/" class="hover:text-brand-primary transition duration-200">Hybrid Transaxle / Drivetrain Service</a>
+</li>
+                    <li>
+<a href="https://www.tiptophybrid.com/hybrid-engine-transmission-replacement/" class="hover:text-brand-primary transition duration-200">Hybrid Engine / Transmission Replacement</a>
+</li>
+                    <li>
+<a href="https://www.tiptophybrid.com/inverter-water-pump-service/" class="hover:text-brand-primary transition duration-200">Inverter Water Pump Service</a>
+</li>
+                    <li>
+<a href="https://www.tiptophybrid.com/inverter-brake-actuator-repair/" class="hover:text-brand-primary transition duration-200">Inverter &amp; Brake Actuator Repair</a>
+</li>
+                    <li>
+<a href="https://www.tiptophybrid.com/high-voltage-system-repair/" class="hover:text-brand-primary transition duration-200">High Voltage System Repair</a>
+</li>
+                    <li>
+<a href="https://www.tiptophybrid.com/toyota-prius-battery-repair-replacement/" class="hover:text-brand-primary transition duration-200">Toyota Prius / Hybrid Battery Repair &amp; Replacement</a>
+</li>
+                </ul>
+            </div>
+            <div>
+                <h3 class="text-lg font-semibold mb-4 text-brand-primary">Quick Links</h3>
+                <ul class="space-y-2 text-sm">
+                    <li>
+<a href="https://www.tiptophybrid.com/testimonials/" class="hover:text-brand-primary transition duration-200">Testimonials</a>
+</li>
+                    <li>
+<a href="https://www.tiptophybrid.com/contact/" class="hover:text-brand-primary transition duration-200">Contact Us</a>
+</li>
+                    <li>
+<a href="https://www.tiptophybrid.com/free-estimate/" class="hover:text-brand-primary transition duration-200">Free Estimate</a>
+</li>
+                    <li>
+<a href="/blogs/" class="hover:text-brand-primary transition duration-200">Blog</a>
+</li>
+                </ul>
+            </div>
+            <div class="col-span-2 md:col-span-1">
+                <img src="https://www.tiptophybrid.com/wp-content/uploads/2025/05/Tip-Top-Hybrid-Logo-White.png" alt="Tip Top Hybrid Logo" class="w-48 h-auto mb-4">
+                <p class="text-sm text-white">
+                    We specialize in expert hybrid vehicle repair and maintenance, providing reliable service for your specialized drivetrain and systems.
+                </p>
+            </div>
+            <div class="col-span-2 md:col-span-1">
+                <h3 class="text-lg font-semibold mb-4 text-brand-primary">Business Mail</h3>
+                <div class="flex items-center space-x-2 mb-6">
+                    <i data-lucide="mail" class="w-5 h-5 text-brand-primary">
+</i>
+                    <a href="mailto:TTACSTIPTOP@yahoo.com" class="text-sm hover:text-brand-primary transition duration-200">
+                        TTACSTIPTOP@yahoo.com
+                    </a>
+                </div>
+                <h3 class="text-lg font-semibold mb-4 text-brand-primary">Address</h3>
+                <p class="text-sm text-white mb-6">
+                    1894 W 9th St, Upland, CA 91786
+                </p>
+                <h3 class="text-lg font-semibold mb-4 text-brand-primary">Follow Us</h3>
+                <div class="flex space-x-4">
+                    <a href="https://www.facebook.com/profile.php?id=61584789488769" target="_blank" class="text-white hover:text-brand-primary transition duration-200" aria-label="Facebook">
+                        <i data-lucide="facebook" class="w-6 h-6">
+</i>
+                    </a>
+                    <a href="https://www.instagram.com/tip_top_hybrid_?igsh=dWs3dmVzcmZsZDBn&utm_source=qr" target="_blank" class="text-white hover:text-brand-primary transition duration-200" aria-label="Instagram">
+                        <i data-lucide="instagram" class="w-6 h-6">
+</i>
+                    </a>
+                    <a href="https://share.google/BfZnHIiSuT2CrrbE6" target="_blank" class="text-white hover:text-brand-primary transition duration-200" aria-label="Google Business">
+                        <i data-lucide="map-pin" class="w-6 h-6">
+</i>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="mt-10 pt-6 border-t border-gray-700 text-center text-sm text-white">
+            <p>© 2026 Tip Top Hybrid. All Rights Reserved.</p>
+        </div>
+    </div>
+</footer>
+<!--SCRIPT-->
+<!--SCRIPT-->
+<!--SCRIPT-->		<!--STYLE-->
+		<!--SCRIPT-->
+					<!--SCRIPT-->
+			<!--SCRIPT-->
+<!--SCRIPT-->
+<!--SCRIPT-->
+<!--SCRIPT-->
+<!--SCRIPT-->
+<!--SCRIPT-->
+<!--SCRIPT-->
+<!--SCRIPT-->
+<!--SCRIPT-->
+<!--SCRIPT-->
+<!--SCRIPT-->
+<!--SCRIPT-->
+<hr>
+<header id="main-header" class="pattern-background text-gray-200 font-medium shadow-lg">
+    <div class="container mx-auto px-4 sm:px-6">
+        <div class="hidden md:flex justify-between items-center py-2 border-b border-white/10 text-xs">
+            <div class="flex items-center space-x-6">
+                <a href="#toyota-specialist-section" class="flex items-center gap-2 hover:text-green-400 transition-colors">
+<i data-lucide="car" class="w-4 h-4 text-gray-300">
+</i>
+<span>Toyota Prius Specialist</span>
+</a>
+                <a href="mailto:TTACSTIPTOP@yahoo.com" class="flex items-center gap-2 hover:text-green-400 transition-colors">
+<i data-lucide="mail" class="w-4 h-4 text-gray-300">
+</i>
+<span>TTACSTIPTOP@yahoo.com</span>
+</a>
+                <a href="#testimonials" class="flex items-center gap-2 hover:text-green-400 transition-colors">
+<i data-lucide="award" class="w-4 h-4 text-gray-300">
+</i>
+<span>Top Rated</span>
+</a>
+            </div>
+            <div class="flex items-center gap-5">
+                <span class="text-gray-500 uppercase tracking-widest text-[10px]">Follow Us:</span>
+                <a href="https://www.facebook.com/profile.php?id=61584789488769" target="_blank" class="hover:text-green-400 transition-colors" aria-label="Facebook">
+                    <i data-lucide="facebook" class="w-5 h-5">
+</i>
+                </a>
+                <a href="https://www.instagram.com/tiptophybird/" target="_blank" class="hover:text-green-400 transition-colors" aria-label="Instagram">
+                    <i data-lucide="instagram" class="w-5 h-5">
+</i>
+                </a>
+                <a href="https://share.google/BfZnHIiSuT2CrrbE6" target="_blank" class="hover:text-green-400 transition-colors" aria-label="Google Business">
+                    <i data-lucide="map-pin" class="w-5 h-5">
+</i>
+                </a>
+            </div>
+        </div>
+        <nav class="flex items-center justify-between py-3">
+            <div class="flex flex-col">
+                <a href="/" class="flex-shrink-0">
+                    <img src="https://www.tiptophybrid.com/wp-content/uploads/2025/05/Tip-Top-Hybrid-Logo-White.png" alt="Tip Top Hybrid Logo" class="w-auto header-logo-img">
+                </a>
+                <div class="hidden md:block text-sm font-semibold text-gray-200 mt-1">
+                    <a href="tel:+19092387028" class="flex items-center gap-2 hover:text-green-400">
+                        <i data-lucide="phone" class="w-4 h-4 text-green-500">
+</i>
+<span>+1 909-238-7028</span>
+                    </a>
+                </div>
+            </div>
+            <div class="flex items-center gap-6">
+                <ul id="desktop-nav" class="hidden lg:flex items-center space-x-8 text-base">
+                    <li>
+<a href="/" class="nav-item hover:text-green-400 transition-colors">Home</a>
+</li>
+                    <li class="relative group">
+                        <a href="#" class="flex items-center hover:text-green-400 transition-colors">
+                            Services <i data-lucide="chevron-down" class="w-4 h-4 ml-1 transition-transform group-hover:rotate-180">
+</i>
+                        </a>
+                        <div class="absolute top-full left-1/2 -translate-x-1/2 mt-2 w-80 bg-[#2b2b2b] rounded-lg shadow-xl p-4 opacity-0 group-hover:opacity-100 invisible group-hover:visible transition-all duration-300 transform scale-95 group-hover:scale-100">
+                            <ul class="space-y-3 text-sm">
+                                <li>
+<a href="https://www.tiptophybrid.com/hybrid-transaxle-drivetrain-service/" class="block hover:text-green-400 transition-colors">Hybrid Transaxle &amp; Drivetrain Service</a>
+</li>
+                                <li>
+<a href="https://www.tiptophybrid.com/hybrid-engine-transmission-replacement/" class="block hover:text-green-400 transition-colors">Engine &amp; Transmission Replacement</a>
+</li>
+                                <li>
+<a href="https://www.tiptophybrid.com/inverter-water-pump-service/" class="block hover:text-green-400 transition-colors">Inverter Water Pump Service</a>
+</li>
+                                <li>
+<a href="https://www.tiptophybrid.com/inverter-brake-actuator-repair/" class="block hover:text-green-400 transition-colors">Inverter &amp; Brake Actuator Repair</a>
+</li>
+                                <li>
+<a href="https://www.tiptophybrid.com/high-voltage-system-repair/" class="block hover:text-green-400 transition-colors">High-Voltage System Repair</a>
+</li>
+                                <li>
+<a href="https://www.tiptophybrid.com/toyota-prius-battery-repair-replacement/" class="block hover:text-green-400 transition-colors">Hybrid Battery Repair &amp; Replacement</a>
+</li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+<a href="/testimonials/" class="nav-item hover:text-green-400 transition-colors">Testimonials</a>
+</li>
+                    <li>
+<a href="/blogs/" class="nav-item hover:text-green-400 transition-colors">Blogs</a>
+</li>
+                    <li>
+<a href="/contact/" class="nav-item hover:text-green-400 transition-colors">Contact Us</a>
+</li>
+                </ul>
+                <a href="/free-estimate/" class="hidden lg:flex items-center bg-green-500 text-white font-bold py-2.5 px-6 rounded-lg shadow-md hover:bg-green-600 transition-colors text-base">
+                    <span>Free Estimate</span>
+                </a>
+                <div class="lg:hidden flex items-center gap-4">
+                    <a href="tel:+19092387028" class="flex items-center justify-center bg-green-500 text-white p-2 rounded-full shadow-lg">
+                        <i data-lucide="phone" class="w-5 h-5">
+</i>
+                    </a>
+                    <button id="mobile-menu-button" class="text-white">
+                        <i data-lucide="menu" class="w-8 h-8">
+</i>
+                    </button>
+                </div>
+            </div>
+        </nav>
+    </div>
+</header>
+<div id="mobile-menu" class="mobile-menu hidden p-6">
+    <div class="flex justify-between items-center mb-8">
+        <img src="https://www.tiptophybrid.com/wp-content/uploads/2025/05/Tip-Top-Hybrid-Logo-White.png" alt="Logo" class="h-10 w-auto">
+        <button id="close-mobile-menu-button">
+<i data-lucide="x" class="w-8 h-8 text-white">
+</i>
+</button>
+    </div>
+    <ul class="flex flex-col space-y-5 text-lg font-medium text-white">
+        <li>
+<a href="/" class="nav-item hover:text-green-400 block py-2">Home</a>
+</li>
+        <li class="border-b border-white/10 pb-2">
+            <button id="mobile-services-toggle" class="flex items-center justify-between w-full hover:text-green-400 py-2">
+                Services <i data-lucide="chevron-down" class="w-5 h-5 transition-transform" id="services-chevron">
+</i>
+            </button>
+            <ul id="mobile-services-list" class="hidden flex flex-col space-y-4 mt-4 pl-4 text-base text-gray-400 border-l border-green-500/50">
+                <li>
+<a href="https://www.tiptophybrid.com/hybrid-transaxle-drivetrain-service/">Hybrid Transaxle &amp; Drivetrain</a>
+</li>
+                <li>
+<a href="https://www.tiptophybrid.com/hybrid-engine-transmission-replacement/">Engine &amp; Transmission</a>
+</li>
+                <li>
+<a href="https://www.tiptophybrid.com/inverter-water-pump-service/">Inverter Water Pump</a>
+</li>
+                <li>
+<a href="https://www.tiptophybrid.com/inverter-brake-actuator-repair/">Brake Actuator Repair</a>
+</li>
+                <li>
+<a href="https://www.tiptophybrid.com/high-voltage-system-repair/">High-Voltage Repair</a>
+</li>
+                <li>
+<a href="https://www.tiptophybrid.com/toyota-prius-battery-repair-replacement/">Hybrid Battery Repair</a>
+</li>
+            </ul>
+        </li>
+        <li>
+<a href="/testimonials/" class="nav-item hover:text-green-400 block py-2">Testimonials</a>
+</li>
+        <li>
+<a href="/blogs/" class="nav-item hover:text-green-400 block py-2">Blogs</a>
+</li>
+        <li>
+<a href="/contact/" class="nav-item hover:text-green-400 block py-2">Contact Us</a>
+</li>
+        <li class="border-t border-white/10 pt-4">
+             <a href="mailto:TTACSTIPTOP@yahoo.com" class="flex items-center gap-3 text-gray-300 hover:text-green-400 py-2">
+                <i data-lucide="mail" class="w-6 h-6">
+</i>
+                <span class="text-base">TTACSTIPTOP@yahoo.com</span>
+            </a>
+        </li>
+        <li class="pt-4 flex items-center gap-6">
+            <a href="https://www.facebook.com/profile.php?id=61584789488769" target="_blank" class="flex flex-col items-center gap-2 text-gray-300 hover:text-green-400 transition-colors">
+                <i data-lucide="facebook" class="w-7 h-7">
+</i>
+                <span class="text-[10px] uppercase">Facebook</span>
+            </a>
+            <a href="https://www.instagram.com/tip_top_hybrid_?igsh=dWs3dmVzcmZsZDBn&utm_source=qr" target="_blank" class="flex flex-col items-center gap-2 text-gray-300 hover:text-green-400 transition-colors">
+                <i data-lucide="instagram" class="w-7 h-7">
+</i>
+                <span class="text-[10px] uppercase">Instagram</span>
+            </a>
+            <a href="https://share.google/BfZnHIiSuT2CrrbE6" target="_blank" class="flex flex-col items-center gap-2 text-gray-300 hover:text-green-400 transition-colors">
+                <i data-lucide="map-pin" class="w-7 h-7">
+</i>
+                <span class="text-[10px] uppercase">Google</span>
+            </a>
+        </li>
+        <li class="pt-2">
+            <a href="/free-estimate/" class="block text-center bg-green-500 text-white font-bold py-4 rounded-lg shadow-xl">
+                Get Free Estimate
+            </a>
+        </li>
+    </ul>
+</div>
+<div class="md:hidden fixed bottom-0 left-0 right-0 z-[9999] flex bg-black border-t border-white/10 shadow-[0_-4px_10px_rgba(0,0,0,0.5)]">
+    <a href="tel:+19092387028" class="flex-1 flex flex-col items-center justify-center py-3 bg-[#111] hover:bg-green-600 transition-colors border-r border-white/5">
+        <i data-lucide="phone-call" class="w-5 h-5 text-green-500 mb-1">
+</i>
+        <span class="text-[10px] font-bold text-white uppercase tracking-wider">Call Now</span>
+    </a>
+    <a href="#gform_wrapper_1" class="flex-1 flex flex-col items-center justify-center py-3 bg-[#111] hover:bg-green-600 transition-colors">
+        <i data-lucide="mail" class="w-5 h-5 text-green-500 mb-1">
+</i>
+        <span class="text-[10px] font-bold text-white uppercase tracking-wider">Contact</span>
+    </a>
+</div>
+<!--SCRIPT-->
+</body>
+</html>

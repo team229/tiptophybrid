@@ -1,0 +1,89 @@
+{
+  "snippets": {
+    "gtmAsync": "<script async=\"\" src=\"https://www.googletagmanager.com/gtm.js?id=GTM-KF7BFWB9\"></script>",
+    "gtmInline": "<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-KF7BFWB9');</script>",
+    "ga4Loader": "<script type=\"text/javascript\" async=\"\" src=\"https://www.googletagmanager.com/gtag/js?id=G-6L0VTXRB3V&amp;cx=c&amp;gtm=4e6ak0\"></script>",
+    "ga4Inline": "<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-6L0VTXRB3V');\n</script>",
+    "adsLoader": "<script async=\"\" src=\"https://www.googletagmanager.com/gtag/js?id=AW-16632046138\"></script>",
+    "adsInline": "<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'AW-16632046138');\n</script>",
+    "clarityLoader": "<script async=\"\" src=\"https://scripts.clarity.ms/0.8.72/clarity.js\"></script>",
+    "clarityTag": "<script async=\"\" src=\"https://www.clarity.ms/tag/vmbm134riy\"></script>",
+    "clarityTagGtm": "<script type=\"text/javascript\" async=\"\" src=\"https://www.clarity.ms/tag/vmbm134riy?ref=gtm\"></script>",
+    "callTracking": "<script async=\"\" src=\"//www.gstatic.com/call-tracking/call-tracking_9.js\" nonce=\"null\"></script>",
+    "wcmLoader": "<script type=\"text/javascript\" async=\"\" src=\"https://www.gstatic.com/wcm/loader.js\"></script>",
+    "wordfence": "<script type=\"text/javascript\">\n(function(url){\n\tif(/(?:Chrome\\/26\\.0\\.1410\\.63 Safari\\/537\\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }\n\tvar addEvent = function(evt, handler) {\n\t\tif (window.addEventListener) {\n\t\t\tdocument.addEventListener(evt, handler, false);\n\t\t} else if (window.attachEvent) {\n\t\t\tdocument.attachEvent('on' + evt, handler);\n\t\t}\n\t};\n\tvar removeEvent = function(evt, handler) {\n\t\tif (window.removeEventListener) {\n\t\t\tdocument.removeEventListener(evt, handler, false);\n\t\t} else if (window.detachEvent) {\n\t\t\tdocument.detachEvent('on' + evt, handler);\n\t\t}\n\t};\n\tvar evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');\n\tvar logHuman = function() {\n\t\tif (window.wfLogHumanRan) { return; }\n\t\twindow.wfLogHumanRan = true;\n\t\tvar wfscr = document.createElement('script');\n\t\twfscr.type = 'text/javascript';\n\t\twfscr.async = true;\n\t\twfscr.src = url + '&r=' + Math.random();\n\t\t(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);\n\t\tfor (var i = 0; i < evts.length; i++) {\n\t\t\tremoveEvent(evts[i], logHuman);\n\t\t}\n\t};\n\tfor (var i = 0; i < evts.length; i++) {\n\t\taddEvent(evts[i], logHuman);\n\t}\n})('//www.tiptophybrid.com/?wordfence_lh=1&hid=08BA2EBAA71AA99D65855E5BEDA89B6E');\n</script>",
+    "gform": "<script>\nvar gform;gform||(document.addEventListener(\"gform_main_scripts_loaded\",function(){gform.scriptsLoaded=!0}),document.addEventListener(\"gform/theme/scripts_loaded\",function(){gform.themeScriptsLoaded=!0}),window.addEventListener(\"DOMContentLoaded\",function(){gform.domLoaded=!0}),gform={domLoaded:!1,scriptsLoaded:!1,themeScriptsLoaded:!1,isFormEditor:()=>\"function\"==typeof InitializeEditor,callIfLoaded:function(o){return!(!gform.domLoaded||!gform.scriptsLoaded||!gform.themeScriptsLoaded&&!gform.isFormEditor()||(gform.isFormEditor()&&console.warn(\"The use of gform.initializeOnLoaded() is deprecated in the form editor context and will be removed in Gravity Forms 3.1.\"),o(),0))},initializeOnLoaded:function(o){gform.callIfLoaded(o)||(document.addEventListener(\"gform_main_scripts_loaded\",()=>{gform.scriptsLoaded=!0,gform.callIfLoaded(o)}),document.addEventListener(\"gform/theme/scripts_loaded\",()=>{gform.themeScriptsLoaded=!0,gform.callIfLoaded(o)}),window.addEventListener(\"DOMContentLoaded\",()=>{gform.domLoaded=!0,gform.callIfLoaded(o)}))},hooks:{action:{},filter:{}},addAction:function(o,r,e,t){gform.addHook(\"action\",o,r,e,t)},addFilter:function(o,r,e,t){gform.addHook(\"filter\",o,r,e,t)},doAction:function(o){gform.doHook(\"action\",o,arguments)},applyFilters:function(o){return gform.doHook(\"filter\",o,arguments)},removeAction:function(o,r){gform.removeHook(\"action\",o,r)},removeFilter:function(o,r,e){gform.removeHook(\"filter\",o,r,e)},addHook:function(o,r,e,t,n){null==gform.hooks[o][r]&&(gform.hooks[o][r]=[]);var d=gform.hooks[o][r];null==n&&(n=r+\"_\"+d.length),gform.hooks[o][r].push({tag:n,callable:e,priority:t=null==t?10:t})},doHook:function(r,o,e){var t;if(e=Array.prototype.slice.call(e,1),null!=gform.hooks[r][o]&&((o=gform.hooks[r][o]).sort(function(o,r){return o.priority-r.priority}),o.forEach(function(o){\"function\"!=typeof(t=o.callable)&&(t=window[t]),\"action\"==r?t.apply(null,e):e[0]=t.apply(null,e)})),\"filter\"==r)return e[0]},removeHook:function(o,r,t,n){var e;null!=gform.hooks[o][r]&&(e=(e=gform.hooks[o][r]).filter(function(o,r,e){return!!(null!=n&&n!=o.tag||null!=t&&t!=o.priority)}),gform.hooks[o][r]=e)}});\n</script>",
+    "jqueryAfter": "<script id=\"jquery-js-after\">\n!function($){\"use strict\";$(document).ready(function(){$(this).scrollTop()>100&&$(\".hfe-scroll-to-top-wrap\").removeClass(\"hfe-scroll-to-top-hide\"),$(window).scroll(function(){$(this).scrollTop()<100?$(\".hfe-scroll-to-top-wrap\").fadeOut(300):$(\".hfe-scroll-to-top-wrap\").fadeIn(300)}),$(\".hfe-scroll-to-top-wrap\").on(\"click\",function(){$(\"html, body\").animate({scrollTop:0},300);return!1})})}(jQuery);\n!function($){'use strict';$(document).ready(function(){var bar=$('.hfe-reading-progress-bar');if(!bar.length)return;$(window).on('scroll',function(){var s=$(window).scrollTop(),d=$(document).height()-$(window).height(),p=d? s/d*100:0;bar.css('width',p+'%')});});}(jQuery);\n//# sourceURL=jquery-js-after\n</script>"
+  },
+  "stylesheets": [
+    {
+      "href": "https://www.tiptophybrid.com/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=2.8.8",
+      "tag": "<link rel=\"stylesheet\" id=\"hfe-widgets-style-css\" href=\"https://www.tiptophybrid.com/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=2.8.8\" media=\"all\">"
+    },
+    {
+      "href": "https://www.tiptophybrid.com/wp-includes/css/dist/block-library/style.min.css?ver=4ba9d21c91b164257570f5d99a37dd5d",
+      "tag": "<link rel=\"stylesheet\" id=\"wp-block-library-css\" href=\"https://www.tiptophybrid.com/wp-includes/css/dist/block-library/style.min.css?ver=4ba9d21c91b164257570f5d99a37dd5d\" media=\"all\">"
+    },
+    {
+      "href": "https://www.tiptophybrid.com/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css?ver=2.8.8",
+      "tag": "<link rel=\"stylesheet\" id=\"hfe-style-css\" href=\"https://www.tiptophybrid.com/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css?ver=2.8.8\" media=\"all\">"
+    },
+    {
+      "href": "https://www.tiptophybrid.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=4.2.4",
+      "tag": "<link rel=\"stylesheet\" id=\"elementor-frontend-css\" href=\"https://www.tiptophybrid.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=4.2.4\" media=\"all\">"
+    },
+    {
+      "href": "https://www.tiptophybrid.com/wp-content/uploads/elementor/css/post-317.css?ver=1792457545",
+      "tag": "<link rel=\"stylesheet\" id=\"elementor-post-317-css\" href=\"https://www.tiptophybrid.com/wp-content/uploads/elementor/css/post-317.css?ver=1792457545\" media=\"all\">"
+    },
+    {
+      "href": "https://www.tiptophybrid.com/wp-content/uploads/elementor/css/post-460.css?ver=1792457545",
+      "tag": "<link rel=\"stylesheet\" id=\"elementor-post-460-css\" href=\"https://www.tiptophybrid.com/wp-content/uploads/elementor/css/post-460.css?ver=1792457545\" media=\"all\">"
+    },
+    {
+      "href": "https://www.tiptophybrid.com/wp-content/themes/pro/framework/dist/css/site/stacks/integrity-light.css?ver=6.6.6",
+      "tag": "<link rel=\"stylesheet\" id=\"x-stack-css\" href=\"https://www.tiptophybrid.com/wp-content/themes/pro/framework/dist/css/site/stacks/integrity-light.css?ver=6.6.6\" media=\"all\">"
+    },
+    {
+      "href": "https://www.tiptophybrid.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.34.0",
+      "tag": "<link rel=\"stylesheet\" id=\"hfe-elementor-icons-css\" href=\"https://www.tiptophybrid.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.34.0\" media=\"all\">"
+    },
+    {
+      "href": "https://www.tiptophybrid.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.24.3",
+      "tag": "<link rel=\"stylesheet\" id=\"hfe-icons-list-css\" href=\"https://www.tiptophybrid.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.24.3\" media=\"all\">"
+    },
+    {
+      "href": "https://www.tiptophybrid.com/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.24.0",
+      "tag": "<link rel=\"stylesheet\" id=\"hfe-social-icons-css\" href=\"https://www.tiptophybrid.com/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.24.0\" media=\"all\">"
+    },
+    {
+      "href": "https://www.tiptophybrid.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.css?ver=5.15.3",
+      "tag": "<link rel=\"stylesheet\" id=\"hfe-social-share-icons-brands-css\" href=\"https://www.tiptophybrid.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.css?ver=5.15.3\" media=\"all\">"
+    },
+    {
+      "href": "https://www.tiptophybrid.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.css?ver=5.15.3",
+      "tag": "<link rel=\"stylesheet\" id=\"hfe-social-share-icons-fontawesome-css\" href=\"https://www.tiptophybrid.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.css?ver=5.15.3\" media=\"all\">"
+    },
+    {
+      "href": "https://www.tiptophybrid.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.css?ver=5.15.3",
+      "tag": "<link rel=\"stylesheet\" id=\"hfe-nav-menu-icons-css\" href=\"https://www.tiptophybrid.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.css?ver=5.15.3\" media=\"all\">"
+    },
+    {
+      "href": "https://fonts.googleapis.com/css?family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&amp;display=swap",
+      "tag": "<link rel=\"stylesheet\" id=\"elementor-gf-roboto-css\" href=\"https://fonts.googleapis.com/css?family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&amp;display=swap\" media=\"all\">"
+    },
+    {
+      "href": "https://fonts.googleapis.com/css?family=Roboto+Slab:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&amp;display=swap",
+      "tag": "<link rel=\"stylesheet\" id=\"elementor-gf-robotoslab-css\" href=\"https://fonts.googleapis.com/css?family=Roboto+Slab:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&amp;display=swap\" media=\"all\">"
+    },
+    {
+      "href": "//fonts.googleapis.com/css?family=Poppins:400,400i,700,700i%7CFira+Sans:400,400i,700,700i&amp;subset=latin,latin-ext&amp;display=auto",
+      "tag": "<link rel=\"stylesheet\" href=\"//fonts.googleapis.com/css?family=Poppins:400,400i,700,700i%7CFira+Sans:400,400i,700,700i&amp;subset=latin,latin-ext&amp;display=auto\" type=\"text/css\" media=\"all\" crossorigin=\"anonymous\" data-x-google-fonts=\"\">"
+    }
+  ],
+  "fontLinks": [
+    "<link rel=\"stylesheet\" id=\"elementor-gf-roboto-css\" href=\"https://fonts.googleapis.com/css?family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&amp;display=swap\" media=\"all\">",
+    "<link rel=\"stylesheet\" id=\"elementor-gf-robotoslab-css\" href=\"https://fonts.googleapis.com/css?family=Roboto+Slab:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&amp;display=swap\" media=\"all\">",
+    "<link rel=\"stylesheet\" href=\"//fonts.googleapis.com/css?family=Poppins:400,400i,700,700i%7CFira+Sans:400,400i,700,700i&amp;subset=latin,latin-ext&amp;display=auto\" type=\"text/css\" media=\"all\" crossorigin=\"anonymous\" data-x-google-fonts=\"\">"
+  ]
+}

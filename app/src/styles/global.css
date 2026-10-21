@@ -1,0 +1,28 @@
+/* ---------------------------------------------------------------------------
+ * Stylesheet order mirrors the original document:
+ *   1. WordPress / Elementor global styles
+ *   2. The Pro theme's custom CSS (cs-inline-css) — this is what paints the
+ *      buttons green (#39b54a) and lays out the .x-* page builder blocks
+ *   3. The remaining WordPress inline styles
+ *   4. Tailwind — the live site loads it from cdn.tailwindcss.com at runtime,
+ *      so its rules land last and win on equal specificity.
+ *
+ * @import must come first in a stylesheet, hence the order below.
+ * ------------------------------------------------------------------------- */
+@import './wp-global-styles.css';
+@import './cs.css';
+@import './wp-block-library-theme.css';
+@import './wp-classic-theme.css';
+@import './wp-emoji.css';
+@import './wp-img-auto-sizes.css';
+@import './inline-custom.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* The WordPress body carried a long list of theme classes; the Pro theme's
+   `.x-site` / `.x-root` wrappers are provided by the page markup itself. */
+body {
+  font-family: 'Poppins', sans-serif;
+}

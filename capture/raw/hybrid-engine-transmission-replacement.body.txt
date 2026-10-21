@@ -1,0 +1,1020 @@
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KF7BFWB9" height="0" width="0" style="display:none;visibility:hidden">
+</iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div id="page" class="hfeed site">
+		<header id="masthead" itemscope="itemscope" itemtype="https://schema.org/WPHeader">
+			<p class="main-title bhf-hidden" itemprop="headline">
+<a href="https://www.tiptophybrid.com/" title="Tip Top Auto Electric" rel="home">Tip Top Auto Electric</a>
+</p>
+			<!--STYLE-->		<div data-elementor-type="wp-post" data-elementor-id="460" class="elementor elementor-460">
+				<div class="elementor-element elementor-element-7b82523 e-con-full e-flex e-con e-parent" data-id="7b82523" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-fc5b3d9 elementor-widget elementor-widget-html" data-id="fc5b3d9" data-element_type="widget" data-e-type="widget" data-widget_type="html.default">
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tip Top Hybrid - Specialized Service</title>
+    <!--SCRIPT-->
+    <!--SCRIPT-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap" rel="stylesheet">
+    <!--STYLE-->
+</head>
+<body data-rsssl="1" class="bg-gray-800">
+<header id="main-header" class="pattern-background text-gray-200 font-medium shadow-lg">
+    <div class="container mx-auto px-4 sm:px-6">
+        <div class="hidden md:flex justify-between items-center py-2 border-b border-white/10 text-xs">
+            <div class="flex items-center space-x-6">
+                <a href="#toyota-specialist-section" class="flex items-center gap-2 hover:text-green-400 transition-colors">
+<i data-lucide="car" class="w-4 h-4 text-gray-300">
+</i>
+<span>Toyota Prius Specialist</span>
+</a>
+                <a href="mailto:TTACSTIPTOP@yahoo.com" class="flex items-center gap-2 hover:text-green-400 transition-colors">
+<i data-lucide="mail" class="w-4 h-4 text-gray-300">
+</i>
+<span>TTACSTIPTOP@yahoo.com</span>
+</a>
+                <a href="#testimonials" class="flex items-center gap-2 hover:text-green-400 transition-colors">
+<i data-lucide="award" class="w-4 h-4 text-gray-300">
+</i>
+<span>Top Rated</span>
+</a>
+            </div>
+            <div class="flex items-center gap-5">
+                <span class="text-gray-500 uppercase tracking-widest text-[10px]">Follow Us:</span>
+                <a href="https://www.facebook.com/profile.php?id=61584789488769" target="_blank" class="hover:text-green-400 transition-colors" aria-label="Facebook">
+                    <i data-lucide="facebook" class="w-5 h-5">
+</i>
+                </a>
+                <a href="https://www.instagram.com/tiptophybird/" target="_blank" class="hover:text-green-400 transition-colors" aria-label="Instagram">
+                    <i data-lucide="instagram" class="w-5 h-5">
+</i>
+                </a>
+                <a href="https://share.google/BfZnHIiSuT2CrrbE6" target="_blank" class="hover:text-green-400 transition-colors" aria-label="Google Business">
+                    <i data-lucide="map-pin" class="w-5 h-5">
+</i>
+                </a>
+            </div>
+        </div>
+        <nav class="flex items-center justify-between py-3">
+            <div class="flex flex-col">
+                <a href="/" class="flex-shrink-0">
+                    <img src="https://www.tiptophybrid.com/wp-content/uploads/2025/05/Tip-Top-Hybrid-Logo-White.png" alt="Tip Top Hybrid Logo" class="w-auto header-logo-img">
+                </a>
+                <div class="hidden md:block text-sm font-semibold text-gray-200 mt-1">
+                    <a href="tel:+19092387028" class="flex items-center gap-2 hover:text-green-400">
+                        <i data-lucide="phone" class="w-4 h-4 text-green-500">
+</i>
+<span>+1 909-238-7028</span>
+                    </a>
+                </div>
+            </div>
+            <div class="flex items-center gap-6">
+                <ul id="desktop-nav" class="hidden lg:flex items-center space-x-8 text-base">
+                    <li>
+<a href="/" class="nav-item hover:text-green-400 transition-colors">Home</a>
+</li>
+                    <li class="relative group">
+                        <a href="#" class="flex items-center hover:text-green-400 transition-colors">
+                            Services <i data-lucide="chevron-down" class="w-4 h-4 ml-1 transition-transform group-hover:rotate-180">
+</i>
+                        </a>
+                        <div class="absolute top-full left-1/2 -translate-x-1/2 mt-2 w-80 bg-[#2b2b2b] rounded-lg shadow-xl p-4 opacity-0 group-hover:opacity-100 invisible group-hover:visible transition-all duration-300 transform scale-95 group-hover:scale-100">
+                            <ul class="space-y-3 text-sm">
+                                <li>
+<a href="https://www.tiptophybrid.com/hybrid-transaxle-drivetrain-service/" class="block hover:text-green-400 transition-colors">Hybrid Transaxle &amp; Drivetrain Service</a>
+</li>
+                                <li>
+<a href="https://www.tiptophybrid.com/hybrid-engine-transmission-replacement/" class="block hover:text-green-400 transition-colors">Engine &amp; Transmission Replacement</a>
+</li>
+                                <li>
+<a href="https://www.tiptophybrid.com/inverter-water-pump-service/" class="block hover:text-green-400 transition-colors">Inverter Water Pump Service</a>
+</li>
+                                <li>
+<a href="https://www.tiptophybrid.com/inverter-brake-actuator-repair/" class="block hover:text-green-400 transition-colors">Inverter &amp; Brake Actuator Repair</a>
+</li>
+                                <li>
+<a href="https://www.tiptophybrid.com/high-voltage-system-repair/" class="block hover:text-green-400 transition-colors">High-Voltage System Repair</a>
+</li>
+                                <li>
+<a href="https://www.tiptophybrid.com/toyota-prius-battery-repair-replacement/" class="block hover:text-green-400 transition-colors">Hybrid Battery Repair &amp; Replacement</a>
+</li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+<a href="/testimonials/" class="nav-item hover:text-green-400 transition-colors">Testimonials</a>
+</li>
+                    <li>
+<a href="/blogs/" class="nav-item hover:text-green-400 transition-colors">Blogs</a>
+</li>
+                    <li>
+<a href="/contact/" class="nav-item hover:text-green-400 transition-colors">Contact Us</a>
+</li>
+                </ul>
+                <a href="/free-estimate/" class="hidden lg:flex items-center bg-green-500 text-white font-bold py-2.5 px-6 rounded-lg shadow-md hover:bg-green-600 transition-colors text-base">
+                    <span>Free Estimate</span>
+                </a>
+                <div class="lg:hidden flex items-center gap-4">
+                    <a href="tel:+19092387028" class="flex items-center justify-center bg-green-500 text-white p-2 rounded-full shadow-lg">
+                        <i data-lucide="phone" class="w-5 h-5">
+</i>
+                    </a>
+                    <button id="mobile-menu-button" class="text-white">
+                        <i data-lucide="menu" class="w-8 h-8">
+</i>
+                    </button>
+                </div>
+            </div>
+        </nav>
+    </div>
+</header>
+<div id="mobile-menu" class="mobile-menu hidden p-6">
+    <div class="flex justify-between items-center mb-8">
+        <img src="https://www.tiptophybrid.com/wp-content/uploads/2025/05/Tip-Top-Hybrid-Logo-White.png" alt="Logo" class="h-10 w-auto">
+        <button id="close-mobile-menu-button">
+<i data-lucide="x" class="w-8 h-8 text-white">
+</i>
+</button>
+    </div>
+    <ul class="flex flex-col space-y-5 text-lg font-medium text-white">
+        <li>
+<a href="/" class="nav-item hover:text-green-400 block py-2">Home</a>
+</li>
+        <li class="border-b border-white/10 pb-2">
+            <button id="mobile-services-toggle" class="flex items-center justify-between w-full hover:text-green-400 py-2">
+                Services <i data-lucide="chevron-down" class="w-5 h-5 transition-transform" id="services-chevron">
+</i>
+            </button>
+            <ul id="mobile-services-list" class="hidden flex flex-col space-y-4 mt-4 pl-4 text-base text-gray-400 border-l border-green-500/50">
+                <li>
+<a href="https://www.tiptophybrid.com/hybrid-transaxle-drivetrain-service/">Hybrid Transaxle &amp; Drivetrain</a>
+</li>
+                <li>
+<a href="https://www.tiptophybrid.com/hybrid-engine-transmission-replacement/">Engine &amp; Transmission</a>
+</li>
+                <li>
+<a href="https://www.tiptophybrid.com/inverter-water-pump-service/">Inverter Water Pump</a>
+</li>
+                <li>
+<a href="https://www.tiptophybrid.com/inverter-brake-actuator-repair/">Brake Actuator Repair</a>
+</li>
+                <li>
+<a href="https://www.tiptophybrid.com/high-voltage-system-repair/">High-Voltage Repair</a>
+</li>
+                <li>
+<a href="https://www.tiptophybrid.com/toyota-prius-battery-repair-replacement/">Hybrid Battery Repair</a>
+</li>
+            </ul>
+        </li>
+        <li>
+<a href="/testimonials/" class="nav-item hover:text-green-400 block py-2">Testimonials</a>
+</li>
+        <li>
+<a href="/blogs/" class="nav-item hover:text-green-400 block py-2">Blogs</a>
+</li>
+        <li>
+<a href="/contact/" class="nav-item hover:text-green-400 block py-2">Contact Us</a>
+</li>
+        <li class="border-t border-white/10 pt-4">
+             <a href="mailto:TTACSTIPTOP@yahoo.com" class="flex items-center gap-3 text-gray-300 hover:text-green-400 py-2">
+                <i data-lucide="mail" class="w-6 h-6">
+</i>
+                <span class="text-base">TTACSTIPTOP@yahoo.com</span>
+            </a>
+        </li>
+        <li class="pt-4 flex items-center gap-6">
+            <a href="https://www.facebook.com/profile.php?id=61584789488769" target="_blank" class="flex flex-col items-center gap-2 text-gray-300 hover:text-green-400 transition-colors">
+                <i data-lucide="facebook" class="w-7 h-7">
+</i>
+                <span class="text-[10px] uppercase">Facebook</span>
+            </a>
+            <a href="https://www.instagram.com/tip_top_hybrid_?igsh=dWs3dmVzcmZsZDBn&utm_source=qr" target="_blank" class="flex flex-col items-center gap-2 text-gray-300 hover:text-green-400 transition-colors">
+                <i data-lucide="instagram" class="w-7 h-7">
+</i>
+                <span class="text-[10px] uppercase">Instagram</span>
+            </a>
+            <a href="https://share.google/BfZnHIiSuT2CrrbE6" target="_blank" class="flex flex-col items-center gap-2 text-gray-300 hover:text-green-400 transition-colors">
+                <i data-lucide="map-pin" class="w-7 h-7">
+</i>
+                <span class="text-[10px] uppercase">Google</span>
+            </a>
+        </li>
+        <li class="pt-2">
+            <a href="/free-estimate/" class="block text-center bg-green-500 text-white font-bold py-4 rounded-lg shadow-xl">
+                Get Free Estimate
+            </a>
+        </li>
+    </ul>
+</div>
+<div class="md:hidden fixed bottom-0 left-0 right-0 z-[9999] flex bg-black border-t border-white/10 shadow-[0_-4px_10px_rgba(0,0,0,0.5)]">
+    <a href="tel:+19092387028" class="flex-1 flex flex-col items-center justify-center py-3 bg-[#111] hover:bg-green-600 transition-colors border-r border-white/5">
+        <i data-lucide="phone-call" class="w-5 h-5 text-green-500 mb-1">
+</i>
+        <span class="text-[10px] font-bold text-white uppercase tracking-wider">Call Now</span>
+    </a>
+    <a href="#gform_wrapper_1" class="flex-1 flex flex-col items-center justify-center py-3 bg-[#111] hover:bg-green-600 transition-colors">
+        <i data-lucide="mail" class="w-5 h-5 text-green-500 mb-1">
+</i>
+        <span class="text-[10px] font-bold text-white uppercase tracking-wider">Contact</span>
+    </a>
+</div>
+<!--SCRIPT-->
+</body>
+</html>				</div>
+				</div>
+				</div>
+				</header>
+			<div data-elementor-type="wp-page" data-elementor-id="340" class="elementor elementor-340">
+				<div class="elementor-element elementor-element-82c2c60 e-con-full e-flex e-con e-parent" data-id="82c2c60" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-c11c4a2 elementor-widget elementor-widget-html" data-id="c11c4a2" data-element_type="widget" data-e-type="widget" data-widget_type="html.default">
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Engine & Transmission Replacement (Hybrid-Specific)</title>
+  <!-- Tailwind configuration -->
+  <!--SCRIPT-->
+  <!--SCRIPT-->
+</head>
+<body data-rsssl="1" style="margin:0;">
+<div id="service-page-body">
+  <div class="min-h-screen bg-zinc-900 text-gray-100 font-sans antialiased">
+<!-- HERO -->
+<section class="relative py-20 text-gray-100 text-center bg-cover bg-center bg-no-repeat" style="background-image: url('https://www.tiptophybrid.com/wp-content/uploads/2025/05/drivetrain-repair.jpg');">
+  <div class="absolute inset-0 bg-black/60">
+</div>
+  <div class="relative max-w-5xl mx-auto px-4">
+    <h1 class="text-5xl text-gray-100 font-extrabold mb-4 md:text-6xl">
+      <span class="text-green-500">Professional Hybrid Engine &amp;</span>
+<br>
+      Transmission Replacement
+    </h1>
+    <p class="text-xl text-gray-300 max-w-3xl mx-auto mb-8">
+      Certified hybrid engine and transmission replacement to restore performance,
+      reliability, and efficiency for your vehicle.
+    </p>
+    <a href="https://www.tiptophybrid.com/free-estimate/" class="inline-block bg-green-600 hover:bg-green-700 text-zinc-900 font-bold py-3 px-8 rounded uppercase tracking-wide transition-colors duration-300">
+      Book Your Replacement
+    </a>
+  </div>
+</section>
+<!-- SERVICES -->
+<section class="py-16 bg-zinc-800 text-gray-100">
+  <div class="max-w-6xl mx-auto px-4">
+    <h2 class="text-3xl text-gray-100 font-bold text-center mb-12 uppercase">
+      Our Engine &amp; Transmission Services
+    </h2>
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+      <div class="bg-zinc-900 p-6 rounded-lg shadow-lg hover:bg-zinc-700 transition-colors duration-300">
+        <span class="block text-4xl text-green-500 mb-3">🔧</span>
+        <h3 class="text-xl text-green-400 font-semibold mb-3">Hybrid Engine Replacement</h3>
+        <p class="text-gray-400">
+          Remove and replace hybrid-specific engines with OEM or certified units
+          to restore performance and reliability.
+        </p>
+      </div>
+      <div class="bg-zinc-900 p-6 rounded-lg shadow-lg hover:bg-zinc-700 transition-colors duration-300">
+        <span class="block text-4xl text-green-500 mb-3">⚙️</span>
+        <h3 class="text-xl text-green-400 font-semibold mb-3">Transmission Replacement</h3>
+        <p class="text-gray-400">
+          Expert replacement of hybrid-compatible transmissions ensuring smooth
+          power delivery and longevity.
+        </p>
+      </div>
+      <div class="bg-zinc-900 p-6 rounded-lg shadow-lg hover:bg-zinc-700 transition-colors duration-300">
+        <span class="block text-4xl text-green-500 mb-3">🛡️</span>
+        <h3 class="text-xl text-green-400 font-semibold mb-3">Safety &amp; Integration Checks</h3>
+        <p class="text-gray-400">
+          Full system checks after installation to ensure engine, transmission,
+          and hybrid systems integrate safely and efficiently.
+        </p>
+      </div>
+      <div class="bg-zinc-900 p-6 rounded-lg shadow-lg hover:bg-zinc-700 transition-colors duration-300">
+        <span class="block text-4xl text-green-500 mb-3">📈</span>
+        <h3 class="text-xl text-green-400 font-semibold mb-3">Performance Tuning</h3>
+        <p class="text-gray-400">
+          Calibrate engine and transmission performance post-replacement for
+          optimal fuel efficiency and smooth driving experience.
+        </p>
+      </div>
+      <div class="bg-zinc-900 p-6 rounded-lg shadow-lg hover:bg-zinc-700 transition-colors duration-300">
+        <span class="block text-4xl text-green-500 mb-3">📝</span>
+        <h3 class="text-xl text-green-400 font-semibold mb-3">Detailed Reporting</h3>
+        <p class="text-gray-400">
+          Receive a comprehensive report detailing replacement, system status,
+          and future maintenance recommendations.
+        </p>
+      </div>
+      <div class="bg-zinc-900 p-6 rounded-lg shadow-lg hover:bg-zinc-700 transition-colors duration-300">
+        <span class="block text-4xl text-green-500 mb-3">🔍</span>
+        <h3 class="text-xl text-green-400 font-semibold mb-3">Pre-Installation Inspection</h3>
+        <p class="text-gray-400">
+          Evaluate your current engine and transmission to identify any hidden
+          issues before replacement to avoid future complications.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- UPDATED BENEFITS SECTION -->
+<section class="py-16 bg-zinc-900 text-gray-100">
+  <div class="max-w-4xl mx-auto px-4">
+    <h2 class="text-3xl text-gray-100 font-bold mb-8 text-center uppercase">
+      Why Hybrid-Specific Replacement Matters
+    </h2>
+    <div class="space-y-6 text-lg text-gray-300">
+      <p>
+        A hybrid engine and transmission replacement is not the same as working on a standard gas car. These systems rely on the engine, transmission, electric motor, inverter, and battery pack all communicating correctly. When one part begins to fail, it can create problems throughout the system.
+      </p>
+      <p>
+        Tip Top Hybrid specializes in Toyota Prius and other hybrid vehicles, so every replacement is handled with the correct parts, tools, and procedures. We take the time to inspect the entire hybrid setup before the replacement. This helps us identify issues early and prevents problems after the new engine or transmission is installed.
+      </p>
+      <p>
+        Timely replacement keeps your vehicle running smoothly, improves fuel efficiency, and protects the hybrid components that depend on proper power delivery. Delaying the replacement can lead to overheating, slipping gears, or electrical strain that may cause added repairs later on. Our team replaces your engine or transmission the right way and makes sure everything works together once the job is complete.
+      </p>
+    </div>
+    <h2 class="text-3xl text-green-500 font-semibold mt-10 mb-4 text-center">
+      Common Issues We Help With
+    </h2>
+    <ul class="space-y-3 text-gray-200 max-w-2xl mx-auto">
+      <li class="flex items-start">
+<span class="text-green-500 mr-3 mt-1">✓</span> Engine failure or reduced performance</li>
+      <li class="flex items-start">
+<span class="text-green-500 mr-3 mt-1">✓</span> Transmission slipping or delayed shifting</li>
+      <li class="flex items-start">
+<span class="text-green-500 mr-3 mt-1">✓</span> Hybrid system communication or integration faults</li>
+      <li class="flex items-start">
+<span class="text-green-500 mr-3 mt-1">✓</span> Overheating or poor fuel efficiency</li>
+      <li class="flex items-start">
+<span class="text-green-500 mr-3 mt-1">✓</span> Premature wear from damaged or misaligned components</li>
+    </ul>
+    <!-- What You Can Expect -->
+    <h2 class="text-3xl text-green-500 font-semibold mt-12 mb-4 text-center">
+      What You Can Expect During a Hybrid Engine and Transmission Replacement
+    </h2>
+    <div class="space-y-6 text-lg text-gray-300 max-w-3xl mx-auto">
+      <div>
+        <h3 class="text-2xl font-semibold text-green-400 mb-1">1. Complete System Inspection</h3>
+        <p>
+          We check the engine, transmission, cooling system, wiring, mounts, and hybrid electronics to find issues that could affect the replacement.
+        </p>
+      </div>
+      <div>
+        <h3 class="text-2xl font-semibold text-green-400 mb-1">2. Safe Removal of the Old Components</h3>
+        <p>
+          Hybrid systems contain high-voltage parts. Our technicians remove components safely and correctly to prevent damage and hazards.
+        </p>
+      </div>
+      <div>
+        <h3 class="text-2xl font-semibold text-green-400 mb-1">3. Installation of OEM or Certified Units</h3>
+        <p>
+          We install hybrid-compatible engines and transmissions that meet factory-fit and performance requirements for your vehicle.
+        </p>
+      </div>
+      <div>
+        <h3 class="text-2xl font-semibold text-green-400 mb-1">4. Calibration and Integration</h3>
+        <p>
+          After installation, we calibrate everything so the new components sync with the hybrid battery and electric motor.
+        </p>
+      </div>
+      <div>
+        <h3 class="text-2xl font-semibold text-green-400 mb-1">5. Road Testing and Final Checks</h3>
+        <p>
+          We test the vehicle under real driving conditions to ensure smooth operation, correct shifting, and full hybrid system communication.
+        </p>
+      </div>
+    </div>
+    <!-- Benefits -->
+    <h2 class="text-3xl text-green-500 font-semibold mt-12 mb-4 text-center">
+      How a Proper Replacement Helps Your Hybrid
+    </h2>
+    <ul class="space-y-3 text-gray-200 max-w-2xl mx-auto">
+      <li class="flex items-start">
+<span class="text-green-500 mr-3 mt-1">•</span> Restore power during acceleration</li>
+      <li class="flex items-start">
+<span class="text-green-500 mr-3 mt-1">•</span> Improve MPG</li>
+      <li class="flex items-start">
+<span class="text-green-500 mr-3 mt-1">•</span> Reduce vibration and noise</li>
+      <li class="flex items-start">
+<span class="text-green-500 mr-3 mt-1">•</span> Prevent long-term damage to hybrid components</li>
+      <li class="flex items-start">
+<span class="text-green-500 mr-3 mt-1">•</span> Increase overall reliability and performance</li>
+    </ul>
+    <!-- Why Prius Owners Trust Tip Top -->
+    <h2 class="text-3xl text-green-500 font-semibold mt-12 mb-4 text-center">
+      Why Prius Owners Trust Tip Top Hybrid
+    </h2>
+    <p class="text-lg text-gray-300 max-w-3xl mx-auto text-center">
+      Prius owners in Upland and surrounding areas choose Tip Top Hybrid because we work on these vehicles daily. Our technicians understand how the hybrid engine, transmission, and electrical systems interact and know how to complete a replacement that meets factory standards. We focus on honest diagnostics, clear communication, and high-quality results.
+    </p>
+    <!-- FAQ -->
+    <h2 class="text-3xl text-green-500 font-semibold mt-12 mb-6 text-center">
+      Frequently Asked Questions
+    </h2>
+    <div class="space-y-6 text-lg text-gray-300 max-w-3xl mx-auto">
+      <div>
+        <h3 class="text-2xl font-semibold text-green-400 mb-1">1. How do I know if my hybrid engine needs replacement?</h3>
+        <p>
+          Reduced power, overheating, knocking sounds, poor fuel efficiency, or dashboard warning lights are common indicators.
+        </p>
+      </div>
+      <div>
+        <h3 class="text-2xl font-semibold text-green-400 mb-1">2. How long does a hybrid transmission replacement take?</h3>
+        <p>
+          Typically 1–3 days depending on parts availability, calibration steps, and diagnostic requirements.
+        </p>
+      </div>
+      <div>
+        <h3 class="text-2xl font-semibold text-green-400 mb-1">3. Do you use OEM or aftermarket components?</h3>
+        <p>
+          We use OEM or certified hybrid-compatible engines and transmissions to ensure long-term performance and reliability.
+        </p>
+      </div>
+      <div>
+        <h3 class="text-2xl font-semibold text-green-400 mb-1">4. Will a replacement improve my hybrid’s fuel efficiency?</h3>
+        <p>
+          Yes — a correctly installed and calibrated unit restores proper fuel economy and smooth power delivery.
+        </p>
+      </div>
+      <div>
+        <h3 class="text-2xl font-semibold text-green-400 mb-1">5. Is replacement covered under warranty?</h3>
+        <p>
+          Most replacement units include a manufacturer or shop warranty. We confirm specifics after the inspection.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- CTA -->
+<section class="py-12 bg-zinc-800 text-gray-100 text-center">
+  <div class="max-w-4xl mx-auto px-4">
+    <h2 class="text-3xl text-gray-100 font-bold mb-3 uppercase">
+      Schedule Your Engine &amp; Transmission Replacement
+    </h2>
+    <p class="text-lg text-gray-300 mb-8">
+      Restore your hybrid’s performance with certified engine and transmission replacements.
+    </p>
+    <!-- Added CTA Button -->
+    <a href="https://www.tiptophybrid.com/free-estimate/" class="inline-block bg-green-600 hover:bg-green-700 text-zinc-900 font-bold py-3 px-10 rounded uppercase tracking-wide transition-colors duration-300">
+      Book Your Replacement Now
+    </a>
+  </div>
+</section>
+  </div>
+</div>
+</body>
+</html>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-90a9511 e-flex e-con-boxed e-con e-parent" data-id="90a9511" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-7782338 e-con-full e-flex e-con e-child" data-id="7782338" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-0af0a29 elementor-widget elementor-widget-html" data-id="0af0a29" data-element_type="widget" data-e-type="widget" data-widget_type="html.default">
+					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3303.9960292980645!2d-117.68982782428172!3d34.09524217314086!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c331d2c4314489%3A0x1d55653cac313be9!2sTip%20Top%20Hybrid!5e0!3m2!1sen!2sin!4v1769168724618!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+</iframe>				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+    </div> <!-- END .x-site -->
+   <!-- END .x-root -->
+<!--SCRIPT-->
+<!--STYLE-->
+<footer class="bg-gray-800 text-white pt-12 pb-6 border-t-4 border-brand-primary">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="grid grid-cols-2 md:grid-cols-4 gap-8">
+            <div>
+                <h3 class="text-lg font-semibold mb-4 text-brand-primary">Hybrid Services</h3>
+                <ul class="space-y-2 text-sm">
+                    <li>
+<a href="https://www.tiptophybrid.com/hybrid-transaxle-drivetrain-service/" class="hover:text-brand-primary transition duration-200">Hybrid Transaxle / Drivetrain Service</a>
+</li>
+                    <li>
+<a href="https://www.tiptophybrid.com/hybrid-engine-transmission-replacement/" class="hover:text-brand-primary transition duration-200">Hybrid Engine / Transmission Replacement</a>
+</li>
+                    <li>
+<a href="https://www.tiptophybrid.com/inverter-water-pump-service/" class="hover:text-brand-primary transition duration-200">Inverter Water Pump Service</a>
+</li>
+                    <li>
+<a href="https://www.tiptophybrid.com/inverter-brake-actuator-repair/" class="hover:text-brand-primary transition duration-200">Inverter &amp; Brake Actuator Repair</a>
+</li>
+                    <li>
+<a href="https://www.tiptophybrid.com/high-voltage-system-repair/" class="hover:text-brand-primary transition duration-200">High Voltage System Repair</a>
+</li>
+                    <li>
+<a href="https://www.tiptophybrid.com/toyota-prius-battery-repair-replacement/" class="hover:text-brand-primary transition duration-200">Toyota Prius / Hybrid Battery Repair &amp; Replacement</a>
+</li>
+                </ul>
+            </div>
+            <div>
+                <h3 class="text-lg font-semibold mb-4 text-brand-primary">Quick Links</h3>
+                <ul class="space-y-2 text-sm">
+                    <li>
+<a href="https://www.tiptophybrid.com/testimonials/" class="hover:text-brand-primary transition duration-200">Testimonials</a>
+</li>
+                    <li>
+<a href="https://www.tiptophybrid.com/contact/" class="hover:text-brand-primary transition duration-200">Contact Us</a>
+</li>
+                    <li>
+<a href="https://www.tiptophybrid.com/free-estimate/" class="hover:text-brand-primary transition duration-200">Free Estimate</a>
+</li>
+                    <li>
+<a href="/blogs/" class="hover:text-brand-primary transition duration-200">Blog</a>
+</li>
+                </ul>
+            </div>
+            <div class="col-span-2 md:col-span-1">
+                <img src="https://www.tiptophybrid.com/wp-content/uploads/2025/05/Tip-Top-Hybrid-Logo-White.png" alt="Tip Top Hybrid Logo" class="w-48 h-auto mb-4">
+                <p class="text-sm text-white">
+                    We specialize in expert hybrid vehicle repair and maintenance, providing reliable service for your specialized drivetrain and systems.
+                </p>
+            </div>
+            <div class="col-span-2 md:col-span-1">
+                <h3 class="text-lg font-semibold mb-4 text-brand-primary">Business Mail</h3>
+                <div class="flex items-center space-x-2 mb-6">
+                    <i data-lucide="mail" class="w-5 h-5 text-brand-primary">
+</i>
+                    <a href="mailto:TTACSTIPTOP@yahoo.com" class="text-sm hover:text-brand-primary transition duration-200">
+                        TTACSTIPTOP@yahoo.com
+                    </a>
+                </div>
+                <h3 class="text-lg font-semibold mb-4 text-brand-primary">Address</h3>
+                <p class="text-sm text-white mb-6">
+                    1894 W 9th St, Upland, CA 91786
+                </p>
+                <h3 class="text-lg font-semibold mb-4 text-brand-primary">Follow Us</h3>
+                <div class="flex space-x-4">
+                    <a href="https://www.facebook.com/profile.php?id=61584789488769" target="_blank" class="text-white hover:text-brand-primary transition duration-200" aria-label="Facebook">
+                        <i data-lucide="facebook" class="w-6 h-6">
+</i>
+                    </a>
+                    <a href="https://www.instagram.com/tip_top_hybrid_?igsh=dWs3dmVzcmZsZDBn&utm_source=qr" target="_blank" class="text-white hover:text-brand-primary transition duration-200" aria-label="Instagram">
+                        <i data-lucide="instagram" class="w-6 h-6">
+</i>
+                    </a>
+                    <a href="https://share.google/BfZnHIiSuT2CrrbE6" target="_blank" class="text-white hover:text-brand-primary transition duration-200" aria-label="Google Business">
+                        <i data-lucide="map-pin" class="w-6 h-6">
+</i>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="mt-10 pt-6 border-t border-gray-700 text-center text-sm text-white">
+            <p>© 2026 Tip Top Hybrid. All Rights Reserved.</p>
+        </div>
+    </div>
+</footer>
+<!--SCRIPT-->
+<!--SCRIPT-->
+<!--SCRIPT-->		<!--STYLE-->
+		<!--SCRIPT-->
+					<!--SCRIPT-->
+			<!--SCRIPT-->
+<!--SCRIPT-->
+<!--SCRIPT-->
+<!--SCRIPT-->
+<!--SCRIPT-->
+<!--SCRIPT-->
+<!--SCRIPT-->
+<!--SCRIPT-->
+<!--SCRIPT-->
+<!--SCRIPT-->
+<!--SCRIPT-->
+<!--SCRIPT-->
+<!--SCRIPT-->
+<hr>
+<header id="main-header" class="pattern-background text-gray-200 font-medium shadow-lg">
+    <div class="container mx-auto px-4 sm:px-6">
+        <div class="hidden md:flex justify-between items-center py-2 border-b border-white/10 text-xs">
+            <div class="flex items-center space-x-6">
+                <a href="#toyota-specialist-section" class="flex items-center gap-2 hover:text-green-400 transition-colors">
+<i data-lucide="car" class="w-4 h-4 text-gray-300">
+</i>
+<span>Toyota Prius Specialist</span>
+</a>
+                <a href="mailto:TTACSTIPTOP@yahoo.com" class="flex items-center gap-2 hover:text-green-400 transition-colors">
+<i data-lucide="mail" class="w-4 h-4 text-gray-300">
+</i>
+<span>TTACSTIPTOP@yahoo.com</span>
+</a>
+                <a href="#testimonials" class="flex items-center gap-2 hover:text-green-400 transition-colors">
+<i data-lucide="award" class="w-4 h-4 text-gray-300">
+</i>
+<span>Top Rated</span>
+</a>
+            </div>
+            <div class="flex items-center gap-5">
+                <span class="text-gray-500 uppercase tracking-widest text-[10px]">Follow Us:</span>
+                <a href="https://www.facebook.com/profile.php?id=61584789488769" target="_blank" class="hover:text-green-400 transition-colors" aria-label="Facebook">
+                    <i data-lucide="facebook" class="w-5 h-5">
+</i>
+                </a>
+                <a href="https://www.instagram.com/tiptophybird/" target="_blank" class="hover:text-green-400 transition-colors" aria-label="Instagram">
+                    <i data-lucide="instagram" class="w-5 h-5">
+</i>
+                </a>
+                <a href="https://share.google/BfZnHIiSuT2CrrbE6" target="_blank" class="hover:text-green-400 transition-colors" aria-label="Google Business">
+                    <i data-lucide="map-pin" class="w-5 h-5">
+</i>
+                </a>
+            </div>
+        </div>
+        <nav class="flex items-center justify-between py-3">
+            <div class="flex flex-col">
+                <a href="/" class="flex-shrink-0">
+                    <img src="https://www.tiptophybrid.com/wp-content/uploads/2025/05/Tip-Top-Hybrid-Logo-White.png" alt="Tip Top Hybrid Logo" class="w-auto header-logo-img">
+                </a>
+                <div class="hidden md:block text-sm font-semibold text-gray-200 mt-1">
+                    <a href="tel:+19092387028" class="flex items-center gap-2 hover:text-green-400">
+                        <i data-lucide="phone" class="w-4 h-4 text-green-500">
+</i>
+<span>+1 909-238-7028</span>
+                    </a>
+                </div>
+            </div>
+            <div class="flex items-center gap-6">
+                <ul id="desktop-nav" class="hidden lg:flex items-center space-x-8 text-base">
+                    <li>
+<a href="/" class="nav-item hover:text-green-400 transition-colors">Home</a>
+</li>
+                    <li class="relative group">
+                        <a href="#" class="flex items-center hover:text-green-400 transition-colors">
+                            Services <i data-lucide="chevron-down" class="w-4 h-4 ml-1 transition-transform group-hover:rotate-180">
+</i>
+                        </a>
+                        <div class="absolute top-full left-1/2 -translate-x-1/2 mt-2 w-80 bg-[#2b2b2b] rounded-lg shadow-xl p-4 opacity-0 group-hover:opacity-100 invisible group-hover:visible transition-all duration-300 transform scale-95 group-hover:scale-100">
+                            <ul class="space-y-3 text-sm">
+                                <li>
+<a href="https://www.tiptophybrid.com/hybrid-transaxle-drivetrain-service/" class="block hover:text-green-400 transition-colors">Hybrid Transaxle &amp; Drivetrain Service</a>
+</li>
+                                <li>
+<a href="https://www.tiptophybrid.com/hybrid-engine-transmission-replacement/" class="block hover:text-green-400 transition-colors">Engine &amp; Transmission Replacement</a>
+</li>
+                                <li>
+<a href="https://www.tiptophybrid.com/inverter-water-pump-service/" class="block hover:text-green-400 transition-colors">Inverter Water Pump Service</a>
+</li>
+                                <li>
+<a href="https://www.tiptophybrid.com/inverter-brake-actuator-repair/" class="block hover:text-green-400 transition-colors">Inverter &amp; Brake Actuator Repair</a>
+</li>
+                                <li>
+<a href="https://www.tiptophybrid.com/high-voltage-system-repair/" class="block hover:text-green-400 transition-colors">High-Voltage System Repair</a>
+</li>
+                                <li>
+<a href="https://www.tiptophybrid.com/toyota-prius-battery-repair-replacement/" class="block hover:text-green-400 transition-colors">Hybrid Battery Repair &amp; Replacement</a>
+</li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+<a href="/testimonials/" class="nav-item hover:text-green-400 transition-colors">Testimonials</a>
+</li>
+                    <li>
+<a href="/blogs/" class="nav-item hover:text-green-400 transition-colors">Blogs</a>
+</li>
+                    <li>
+<a href="/contact/" class="nav-item hover:text-green-400 transition-colors">Contact Us</a>
+</li>
+                </ul>
+                <a href="/free-estimate/" class="hidden lg:flex items-center bg-green-500 text-white font-bold py-2.5 px-6 rounded-lg shadow-md hover:bg-green-600 transition-colors text-base">
+                    <span>Free Estimate</span>
+                </a>
+                <div class="lg:hidden flex items-center gap-4">
+                    <a href="tel:+19092387028" class="flex items-center justify-center bg-green-500 text-white p-2 rounded-full shadow-lg">
+                        <i data-lucide="phone" class="w-5 h-5">
+</i>
+                    </a>
+                    <button id="mobile-menu-button" class="text-white">
+                        <i data-lucide="menu" class="w-8 h-8">
+</i>
+                    </button>
+                </div>
+            </div>
+        </nav>
+    </div>
+</header>
+<div id="mobile-menu" class="mobile-menu hidden p-6">
+    <div class="flex justify-between items-center mb-8">
+        <img src="https://www.tiptophybrid.com/wp-content/uploads/2025/05/Tip-Top-Hybrid-Logo-White.png" alt="Logo" class="h-10 w-auto">
+        <button id="close-mobile-menu-button">
+<i data-lucide="x" class="w-8 h-8 text-white">
+</i>
+</button>
+    </div>
+    <ul class="flex flex-col space-y-5 text-lg font-medium text-white">
+        <li>
+<a href="/" class="nav-item hover:text-green-400 block py-2">Home</a>
+</li>
+        <li class="border-b border-white/10 pb-2">
+            <button id="mobile-services-toggle" class="flex items-center justify-between w-full hover:text-green-400 py-2">
+                Services <i data-lucide="chevron-down" class="w-5 h-5 transition-transform" id="services-chevron">
+</i>
+            </button>
+            <ul id="mobile-services-list" class="hidden flex flex-col space-y-4 mt-4 pl-4 text-base text-gray-400 border-l border-green-500/50">
+                <li>
+<a href="https://www.tiptophybrid.com/hybrid-transaxle-drivetrain-service/">Hybrid Transaxle &amp; Drivetrain</a>
+</li>
+                <li>
+<a href="https://www.tiptophybrid.com/hybrid-engine-transmission-replacement/">Engine &amp; Transmission</a>
+</li>
+                <li>
+<a href="https://www.tiptophybrid.com/inverter-water-pump-service/">Inverter Water Pump</a>
+</li>
+                <li>
+<a href="https://www.tiptophybrid.com/inverter-brake-actuator-repair/">Brake Actuator Repair</a>
+</li>
+                <li>
+<a href="https://www.tiptophybrid.com/high-voltage-system-repair/">High-Voltage Repair</a>
+</li>
+                <li>
+<a href="https://www.tiptophybrid.com/toyota-prius-battery-repair-replacement/">Hybrid Battery Repair</a>
+</li>
+            </ul>
+        </li>
+        <li>
+<a href="/testimonials/" class="nav-item hover:text-green-400 block py-2">Testimonials</a>
+</li>
+        <li>
+<a href="/blogs/" class="nav-item hover:text-green-400 block py-2">Blogs</a>
+</li>
+        <li>
+<a href="/contact/" class="nav-item hover:text-green-400 block py-2">Contact Us</a>
+</li>
+        <li class="border-t border-white/10 pt-4">
+             <a href="mailto:TTACSTIPTOP@yahoo.com" class="flex items-center gap-3 text-gray-300 hover:text-green-400 py-2">
+                <i data-lucide="mail" class="w-6 h-6">
+</i>
+                <span class="text-base">TTACSTIPTOP@yahoo.com</span>
+            </a>
+        </li>
+        <li class="pt-4 flex items-center gap-6">
+            <a href="https://www.facebook.com/profile.php?id=61584789488769" target="_blank" class="flex flex-col items-center gap-2 text-gray-300 hover:text-green-400 transition-colors">
+                <i data-lucide="facebook" class="w-7 h-7">
+</i>
+                <span class="text-[10px] uppercase">Facebook</span>
+            </a>
+            <a href="https://www.instagram.com/tip_top_hybrid_?igsh=dWs3dmVzcmZsZDBn&utm_source=qr" target="_blank" class="flex flex-col items-center gap-2 text-gray-300 hover:text-green-400 transition-colors">
+                <i data-lucide="instagram" class="w-7 h-7">
+</i>
+                <span class="text-[10px] uppercase">Instagram</span>
+            </a>
+            <a href="https://share.google/BfZnHIiSuT2CrrbE6" target="_blank" class="flex flex-col items-center gap-2 text-gray-300 hover:text-green-400 transition-colors">
+                <i data-lucide="map-pin" class="w-7 h-7">
+</i>
+                <span class="text-[10px] uppercase">Google</span>
+            </a>
+        </li>
+        <li class="pt-2">
+            <a href="/free-estimate/" class="block text-center bg-green-500 text-white font-bold py-4 rounded-lg shadow-xl">
+                Get Free Estimate
+            </a>
+        </li>
+    </ul>
+</div>
+<div class="md:hidden fixed bottom-0 left-0 right-0 z-[9999] flex bg-black border-t border-white/10 shadow-[0_-4px_10px_rgba(0,0,0,0.5)]">
+    <a href="tel:+19092387028" class="flex-1 flex flex-col items-center justify-center py-3 bg-[#111] hover:bg-green-600 transition-colors border-r border-white/5">
+        <i data-lucide="phone-call" class="w-5 h-5 text-green-500 mb-1">
+</i>
+        <span class="text-[10px] font-bold text-white uppercase tracking-wider">Call Now</span>
+    </a>
+    <a href="#gform_wrapper_1" class="flex-1 flex flex-col items-center justify-center py-3 bg-[#111] hover:bg-green-600 transition-colors">
+        <i data-lucide="mail" class="w-5 h-5 text-green-500 mb-1">
+</i>
+        <span class="text-[10px] font-bold text-white uppercase tracking-wider">Contact</span>
+    </a>
+</div>
+<!--SCRIPT-->
+<hr>
+<div id="service-page-body">
+  <div class="min-h-screen bg-zinc-900 text-gray-100 font-sans antialiased">
+<!-- HERO -->
+<section class="relative py-20 text-gray-100 text-center bg-cover bg-center bg-no-repeat" style="background-image: url('https://www.tiptophybrid.com/wp-content/uploads/2025/05/drivetrain-repair.jpg');">
+  <div class="absolute inset-0 bg-black/60">
+</div>
+  <div class="relative max-w-5xl mx-auto px-4">
+    <h1 class="text-5xl text-gray-100 font-extrabold mb-4 md:text-6xl">
+      <span class="text-green-500">Professional Hybrid Engine &amp;</span>
+<br>
+      Transmission Replacement
+    </h1>
+    <p class="text-xl text-gray-300 max-w-3xl mx-auto mb-8">
+      Certified hybrid engine and transmission replacement to restore performance,
+      reliability, and efficiency for your vehicle.
+    </p>
+    <a href="https://www.tiptophybrid.com/free-estimate/" class="inline-block bg-green-600 hover:bg-green-700 text-zinc-900 font-bold py-3 px-8 rounded uppercase tracking-wide transition-colors duration-300">
+      Book Your Replacement
+    </a>
+  </div>
+</section>
+<!-- SERVICES -->
+<section class="py-16 bg-zinc-800 text-gray-100">
+  <div class="max-w-6xl mx-auto px-4">
+    <h2 class="text-3xl text-gray-100 font-bold text-center mb-12 uppercase">
+      Our Engine &amp; Transmission Services
+    </h2>
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+      <div class="bg-zinc-900 p-6 rounded-lg shadow-lg hover:bg-zinc-700 transition-colors duration-300">
+        <span class="block text-4xl text-green-500 mb-3">🔧</span>
+        <h3 class="text-xl text-green-400 font-semibold mb-3">Hybrid Engine Replacement</h3>
+        <p class="text-gray-400">
+          Remove and replace hybrid-specific engines with OEM or certified units
+          to restore performance and reliability.
+        </p>
+      </div>
+      <div class="bg-zinc-900 p-6 rounded-lg shadow-lg hover:bg-zinc-700 transition-colors duration-300">
+        <span class="block text-4xl text-green-500 mb-3">⚙️</span>
+        <h3 class="text-xl text-green-400 font-semibold mb-3">Transmission Replacement</h3>
+        <p class="text-gray-400">
+          Expert replacement of hybrid-compatible transmissions ensuring smooth
+          power delivery and longevity.
+        </p>
+      </div>
+      <div class="bg-zinc-900 p-6 rounded-lg shadow-lg hover:bg-zinc-700 transition-colors duration-300">
+        <span class="block text-4xl text-green-500 mb-3">🛡️</span>
+        <h3 class="text-xl text-green-400 font-semibold mb-3">Safety &amp; Integration Checks</h3>
+        <p class="text-gray-400">
+          Full system checks after installation to ensure engine, transmission,
+          and hybrid systems integrate safely and efficiently.
+        </p>
+      </div>
+      <div class="bg-zinc-900 p-6 rounded-lg shadow-lg hover:bg-zinc-700 transition-colors duration-300">
+        <span class="block text-4xl text-green-500 mb-3">📈</span>
+        <h3 class="text-xl text-green-400 font-semibold mb-3">Performance Tuning</h3>
+        <p class="text-gray-400">
+          Calibrate engine and transmission performance post-replacement for
+          optimal fuel efficiency and smooth driving experience.
+        </p>
+      </div>
+      <div class="bg-zinc-900 p-6 rounded-lg shadow-lg hover:bg-zinc-700 transition-colors duration-300">
+        <span class="block text-4xl text-green-500 mb-3">📝</span>
+        <h3 class="text-xl text-green-400 font-semibold mb-3">Detailed Reporting</h3>
+        <p class="text-gray-400">
+          Receive a comprehensive report detailing replacement, system status,
+          and future maintenance recommendations.
+        </p>
+      </div>
+      <div class="bg-zinc-900 p-6 rounded-lg shadow-lg hover:bg-zinc-700 transition-colors duration-300">
+        <span class="block text-4xl text-green-500 mb-3">🔍</span>
+        <h3 class="text-xl text-green-400 font-semibold mb-3">Pre-Installation Inspection</h3>
+        <p class="text-gray-400">
+          Evaluate your current engine and transmission to identify any hidden
+          issues before replacement to avoid future complications.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- UPDATED BENEFITS SECTION -->
+<section class="py-16 bg-zinc-900 text-gray-100">
+  <div class="max-w-4xl mx-auto px-4">
+    <h2 class="text-3xl text-gray-100 font-bold mb-8 text-center uppercase">
+      Why Hybrid-Specific Replacement Matters
+    </h2>
+    <div class="space-y-6 text-lg text-gray-300">
+      <p>
+        A hybrid engine and transmission replacement is not the same as working on a standard gas car. These systems rely on the engine, transmission, electric motor, inverter, and battery pack all communicating correctly. When one part begins to fail, it can create problems throughout the system.
+      </p>
+      <p>
+        Tip Top Hybrid specializes in Toyota Prius and other hybrid vehicles, so every replacement is handled with the correct parts, tools, and procedures. We take the time to inspect the entire hybrid setup before the replacement. This helps us identify issues early and prevents problems after the new engine or transmission is installed.
+      </p>
+      <p>
+        Timely replacement keeps your vehicle running smoothly, improves fuel efficiency, and protects the hybrid components that depend on proper power delivery. Delaying the replacement can lead to overheating, slipping gears, or electrical strain that may cause added repairs later on. Our team replaces your engine or transmission the right way and makes sure everything works together once the job is complete.
+      </p>
+    </div>
+    <h2 class="text-3xl text-green-500 font-semibold mt-10 mb-4 text-center">
+      Common Issues We Help With
+    </h2>
+    <ul class="space-y-3 text-gray-200 max-w-2xl mx-auto">
+      <li class="flex items-start">
+<span class="text-green-500 mr-3 mt-1">✓</span> Engine failure or reduced performance</li>
+      <li class="flex items-start">
+<span class="text-green-500 mr-3 mt-1">✓</span> Transmission slipping or delayed shifting</li>
+      <li class="flex items-start">
+<span class="text-green-500 mr-3 mt-1">✓</span> Hybrid system communication or integration faults</li>
+      <li class="flex items-start">
+<span class="text-green-500 mr-3 mt-1">✓</span> Overheating or poor fuel efficiency</li>
+      <li class="flex items-start">
+<span class="text-green-500 mr-3 mt-1">✓</span> Premature wear from damaged or misaligned components</li>
+    </ul>
+    <!-- What You Can Expect -->
+    <h2 class="text-3xl text-green-500 font-semibold mt-12 mb-4 text-center">
+      What You Can Expect During a Hybrid Engine and Transmission Replacement
+    </h2>
+    <div class="space-y-6 text-lg text-gray-300 max-w-3xl mx-auto">
+      <div>
+        <h3 class="text-2xl font-semibold text-green-400 mb-1">1. Complete System Inspection</h3>
+        <p>
+          We check the engine, transmission, cooling system, wiring, mounts, and hybrid electronics to find issues that could affect the replacement.
+        </p>
+      </div>
+      <div>
+        <h3 class="text-2xl font-semibold text-green-400 mb-1">2. Safe Removal of the Old Components</h3>
+        <p>
+          Hybrid systems contain high-voltage parts. Our technicians remove components safely and correctly to prevent damage and hazards.
+        </p>
+      </div>
+      <div>
+        <h3 class="text-2xl font-semibold text-green-400 mb-1">3. Installation of OEM or Certified Units</h3>
+        <p>
+          We install hybrid-compatible engines and transmissions that meet factory-fit and performance requirements for your vehicle.
+        </p>
+      </div>
+      <div>
+        <h3 class="text-2xl font-semibold text-green-400 mb-1">4. Calibration and Integration</h3>
+        <p>
+          After installation, we calibrate everything so the new components sync with the hybrid battery and electric motor.
+        </p>
+      </div>
+      <div>
+        <h3 class="text-2xl font-semibold text-green-400 mb-1">5. Road Testing and Final Checks</h3>
+        <p>
+          We test the vehicle under real driving conditions to ensure smooth operation, correct shifting, and full hybrid system communication.
+        </p>
+      </div>
+    </div>
+    <!-- Benefits -->
+    <h2 class="text-3xl text-green-500 font-semibold mt-12 mb-4 text-center">
+      How a Proper Replacement Helps Your Hybrid
+    </h2>
+    <ul class="space-y-3 text-gray-200 max-w-2xl mx-auto">
+      <li class="flex items-start">
+<span class="text-green-500 mr-3 mt-1">•</span> Restore power during acceleration</li>
+      <li class="flex items-start">
+<span class="text-green-500 mr-3 mt-1">•</span> Improve MPG</li>
+      <li class="flex items-start">
+<span class="text-green-500 mr-3 mt-1">•</span> Reduce vibration and noise</li>
+      <li class="flex items-start">
+<span class="text-green-500 mr-3 mt-1">•</span> Prevent long-term damage to hybrid components</li>
+      <li class="flex items-start">
+<span class="text-green-500 mr-3 mt-1">•</span> Increase overall reliability and performance</li>
+    </ul>
+    <!-- Why Prius Owners Trust Tip Top -->
+    <h2 class="text-3xl text-green-500 font-semibold mt-12 mb-4 text-center">
+      Why Prius Owners Trust Tip Top Hybrid
+    </h2>
+    <p class="text-lg text-gray-300 max-w-3xl mx-auto text-center">
+      Prius owners in Upland and surrounding areas choose Tip Top Hybrid because we work on these vehicles daily. Our technicians understand how the hybrid engine, transmission, and electrical systems interact and know how to complete a replacement that meets factory standards. We focus on honest diagnostics, clear communication, and high-quality results.
+    </p>
+    <!-- FAQ -->
+    <h2 class="text-3xl text-green-500 font-semibold mt-12 mb-6 text-center">
+      Frequently Asked Questions
+    </h2>
+    <div class="space-y-6 text-lg text-gray-300 max-w-3xl mx-auto">
+      <div>
+        <h3 class="text-2xl font-semibold text-green-400 mb-1">1. How do I know if my hybrid engine needs replacement?</h3>
+        <p>
+          Reduced power, overheating, knocking sounds, poor fuel efficiency, or dashboard warning lights are common indicators.
+        </p>
+      </div>
+      <div>
+        <h3 class="text-2xl font-semibold text-green-400 mb-1">2. How long does a hybrid transmission replacement take?</h3>
+        <p>
+          Typically 1–3 days depending on parts availability, calibration steps, and diagnostic requirements.
+        </p>
+      </div>
+      <div>
+        <h3 class="text-2xl font-semibold text-green-400 mb-1">3. Do you use OEM or aftermarket components?</h3>
+        <p>
+          We use OEM or certified hybrid-compatible engines and transmissions to ensure long-term performance and reliability.
+        </p>
+      </div>
+      <div>
+        <h3 class="text-2xl font-semibold text-green-400 mb-1">4. Will a replacement improve my hybrid’s fuel efficiency?</h3>
+        <p>
+          Yes — a correctly installed and calibrated unit restores proper fuel economy and smooth power delivery.
+        </p>
+      </div>
+      <div>
+        <h3 class="text-2xl font-semibold text-green-400 mb-1">5. Is replacement covered under warranty?</h3>
+        <p>
+          Most replacement units include a manufacturer or shop warranty. We confirm specifics after the inspection.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- CTA -->
+<section class="py-12 bg-zinc-800 text-gray-100 text-center">
+  <div class="max-w-4xl mx-auto px-4">
+    <h2 class="text-3xl text-gray-100 font-bold mb-3 uppercase">
+      Schedule Your Engine &amp; Transmission Replacement
+    </h2>
+    <p class="text-lg text-gray-300 mb-8">
+      Restore your hybrid’s performance with certified engine and transmission replacements.
+    </p>
+    <!-- Added CTA Button -->
+    <a href="https://www.tiptophybrid.com/free-estimate/" class="inline-block bg-green-600 hover:bg-green-700 text-zinc-900 font-bold py-3 px-10 rounded uppercase tracking-wide transition-colors duration-300">
+      Book Your Replacement Now
+    </a>
+  </div>
+</section>
+  </div>
+</div>
+</body>
+</html>
