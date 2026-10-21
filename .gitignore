@@ -3,10 +3,11 @@ node_modules/
 .pnp
 .pnp.js
 
-# build output
-dist/
-.astro/
-.output/
+# build output (scoped to the Astro project — a bare `dist/` would also ignore
+# the mirrored WordPress assets under app/public/**/dist/)
+/app/dist/
+/app/.astro/
+/app/.output/
 
 # environment
 .env
