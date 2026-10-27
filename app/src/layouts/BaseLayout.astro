@@ -5,6 +5,7 @@ import LandingHeader from '../components/landing/LandingHeader';
 import LandingFooter from '../components/landing/LandingFooter.astro';
 import MobileCtaBar from '../components/landing/MobileCtaBar.astro';
 import Footer from '../components/Footer';
+import LeadForm from '../components/LeadForm.astro';
 import headParts from '../data/head-parts.json';
 import { ASSET_BASE, withAssetBase } from '../data/content';
 import type { PageData } from '../data/pages';
@@ -272,6 +273,9 @@ const fontLinks = headParts.fontLinks.map((l) => withAssetBase(l));
         <script src="/vendor/lucide/lucide.js" is:inline></script>
       )
     }
+
+    <!-- Lead routing for every Gravity Forms form on the site. -->
+    <LeadForm />
 
     <span id="elementor-device-mode" class="elementor-screen-only"></span>
     <p

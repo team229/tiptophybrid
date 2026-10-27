@@ -1,0 +1,158 @@
+---
+/**
+ * Site-wide lead routing for every Gravity Forms form on this site.
+ *
+ * The captured WordPress forms post back to the (non-existent) WordPress
+ * backend, so all of them — home, city pages, /contact/, /free-estimate/ and
+ * /repair/ — are intercepted here and sent as JSON to the lead endpoint.
+ *
+ * The handler runs in the capture phase and stops propagation, so Gravity
+ * Forms' own runtime (where it is still loaded) never takes over the submit.
+ */
+const ENDPOINT = 'https://api-inform.bythub.in/?formId=xIrm3pC4VorJiZG3Tqos';
+---
+
+<div
+  id="lead-form-config"
+  class="hidden"
+  aria-hidden="true"
+  data-endpoint={ENDPOINT}
+  data-phone="909-238-7028"
+  data-phone-raw="+19092387028"
+>
+</div>
+
+<style is:global>
+  .lead-form-error {
+    margin-bottom: 1em;
+    border: 1px solid #fecaca;
+    border-radius: 4px;
+    background: #fef2f2;
+    padding: 0.75em 1em;
+    color: #b91c1c;
+    font-size: 0.95em;
+  }
+</style>
+
+<script>
+  (() => {
+    const config = document.getElementById('lead-form-config');
+    if (!config) return;
+
+    const endpoint = config.dataset.endpoint;
+    const phone = config.dataset.phone;
+    const phoneRaw = config.dataset.phoneRaw;
+    const FORM_SELECTOR = 'form[id^="gform_"]';
+
+    /**
+     * Gravity Forms' inline `onclick="gform.submission…"` would throw on pages
+     * where its runtime is not loaded, and would validate before we see the
+     * submit. Drop it — this handler owns the submission.
+     */
+    const stripInlineHandlers = () =>
+      document.querySelectorAll(`${FORM_SELECTOR} [onclick]`).forEach((el) => {
+        el.removeAttribute('onclick');
+      });
+
+    stripInlineHandlers();
+    document.addEventListener('DOMContentLoaded', stripInlineHandlers, { once: true });
+
+    const showError = (form, message) => {
+      let el = form.querySelector('.lead-form-error');
+      if (!el) {
+        el = document.createElement('p');
+        el.className = 'lead-form-error';
+        el.setAttribute('role', 'alert');
+        form.prepend(el);
+      }
+      el.textContent = message;
+      el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    };
+
+    document.addEventListener(
+      'submit',
+      async (event) => {
+        const form = event.target;
+        if (!(form instanceof HTMLFormElement) || !form.id.startsWith('gform_')) return;
+
+        event.preventDefault();
+        event.stopPropagation();
+        event.stopImmediatePropagation();
+
+        form.querySelector('.lead-form-error')?.remove();
+
+        const data = new FormData(form);
+        const get = (key) => (data.get(key) || '').toString().trim();
+
+        const name = get('input_1');
+        const email = get('input_2');
+        const phoneField = get('input_3');
+
+        if (!name) return showError(form, 'Please enter your name.');
+        if (!email && !phoneField) {
+          return showError(form, 'Please add an email or a phone number so we can reach you.');
+        }
+
+        // Everything except name/email goes into the notification message, so
+        // no answer (phone, vehicle, message) is lost whatever the form.
+        const details = [...form.querySelectorAll('.gfield')]
+          .map((field) => {
+            const label = field.querySelector('.gfield_label')?.textContent?.trim() ?? '';
+            const input = field.querySelector('input, textarea, select');
+            const value = (input?.value ?? '').trim();
+            return { label, value };
+          })
+          .filter((f) => f.value && !/^name$/i.test(f.label) && !/e-?mail/i.test(f.label))
+          .map((f) => `${f.label}: ${f.value}`);
+
+        const payload = {
+          name,
+          email,
+          phone: phoneField,
+          message: [...details, `Page: ${window.location.href}`].join('\n'),
+        };
+
+        const button = form.querySelector('input[type="submit"], button[type="submit"]');
+        const label = button instanceof HTMLInputElement ? button.value : button?.textContent;
+        if (button) {
+          button.disabled = true;
+          if (button instanceof HTMLInputElement) button.value = 'Sending…';
+          else button.textContent = 'Sending…';
+        }
+
+        const wrapper = form.closest('.gform_wrapper') || form;
+
+        try {
+          const response = await fetch(endpoint, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify(payload),
+          });
+          if (!response.ok) throw new Error('HTTP ' + response.status);
+
+          window.dataLayer = window.dataLayer || [];
+          window.dataLayer.push({ event: 'generate_lead', form: form.id });
+
+          const confirmation = document.createElement('div');
+          confirmation.className = 'gform_confirmation_message';
+          confirmation.setAttribute('role', 'status');
+          confirmation.innerHTML =
+            '<strong>Thanks — your request is in.</strong><br>We’ll be in touch shortly. ' +
+            'Need us now? Call <a href="tel:' + phoneRaw + '">' + phone + '</a>.';
+          wrapper.replaceChildren(confirmation);
+        } catch (error) {
+          if (button) {
+            button.disabled = false;
+            if (button instanceof HTMLInputElement) button.value = label ?? 'Submit';
+            else button.textContent = label ?? 'Submit';
+          }
+          showError(
+            form,
+            'Sorry, something went wrong. Please call us on ' + phone + ' and we’ll take your details.',
+          );
+        }
+      },
+      true,
+    );
+  })();
+</script>
