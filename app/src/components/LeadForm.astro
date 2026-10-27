@@ -137,9 +137,14 @@ const ENDPOINT = 'https://api-inform.bythub.in/?formId=xIrm3pC4VorJiZG3Tqos';
           confirmation.className = 'gform_confirmation_message';
           confirmation.setAttribute('role', 'status');
           confirmation.innerHTML =
-            '<strong>Thanks — your request is in.</strong><br>We’ll be in touch shortly. ' +
-            'Need us now? Call <a href="tel:' + phoneRaw + '">' + phone + '</a>.';
+            '<strong>Thanks — your request is in.</strong><br>Taking you to the next step…';
           wrapper.replaceChildren(confirmation);
+
+          // Conversion page: ads/analytics conversions can target /thank-you/.
+          // The short pause lets the dataLayer event flush before navigating.
+          window.setTimeout(() => {
+            window.location.assign('/thank-you/');
+          }, 600);
         } catch (error) {
           if (button) {
             button.disabled = false;

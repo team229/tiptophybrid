@@ -41,7 +41,7 @@ export default function LandingHeader() {
           </a>
 
           <a
-            href="#contact"
+            href="/repair/#contact"
             className="inline-flex items-center whitespace-nowrap rounded-md bg-green-500 px-2.5 py-2.5 text-xs font-semibold text-white shadow-md transition-colors hover:bg-green-600 hover:text-white sm:px-5 sm:text-base"
           >
             Free Estimate
