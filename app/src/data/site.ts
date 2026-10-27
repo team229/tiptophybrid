@@ -20,6 +20,13 @@ export const SITE = {
   zip: '91786',
   mapIframe:
     'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3303.9960292980645!2d-117.68982782428172!3d34.09524217314086!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c331d2c4314489%3A0x1d55653cac313be9!2sTip%20Top%20Hybrid!5e0!3m2!1sen!2sin!4v1769168724618!5m2!1sen!2sin',
+  /**
+   * Same location, no place card: the `?q=<lat>,<lng>&output=embed` view drops the
+   * Google Business Profile overlay (name, address, rating, "Open in Maps") while
+   * keeping the pin and the interactive map.
+   */
+  mapIframeNoCard:
+    'https://www.google.com/maps?q=34.09524217314086,-117.68982782428172&z=16&hl=en&output=embed',
   logo: asset('/wp-content/uploads/2025/05/Tip-Top-Hybrid-Logo-White.png'),
   social: {
     facebook: 'https://www.facebook.com/profile.php?id=61584789488769',

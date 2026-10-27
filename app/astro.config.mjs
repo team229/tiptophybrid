@@ -20,6 +20,12 @@ export default defineConfig({
   site: 'https://www.tiptophybrid.com',
   output: 'static',
   trailingSlash: 'always',
+  // Allow the preview tunnels to reach the local dev server (Vite blocks
+  // unknown Host headers with a 403 otherwise).
+  server: {
+    allowedHosts: ['.trycloudflare.com', 'web.clickboostmedia.com', '.clickboostmedia.com'],
+    host: true,
+  },
   integrations: [
     react(),
     tailwind({ applyBaseStyles: true }),

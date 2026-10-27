@@ -1,0 +1,25 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getLandingBody, HERO_IMAGE, LANDING_PAGE } from '../data/landing';
+import ContactSection from '../components/landing/ContactSection.astro';
+import AddressHours from '../components/landing/AddressHours.astro';
+import ConsultationCta from '../components/landing/ConsultationCta.astro';
+import MapSection from '../components/landing/MapSection.astro';
+
+const body = getLandingBody();
+---
+
+<BaseLayout page={LANDING_PAGE} variant="landing" preloadImage={HERO_IMAGE}>
+  <div class="x-main full" role="main">
+    <article id="post-50" class="post-50 page type-page status-publish hentry no-post-thumbnail">
+      <div class="entry-content content">
+        <div id="cs-content" class="cs-content" set:html={body} />
+      </div>
+    </article>
+  </div>
+
+  <ContactSection />
+  <AddressHours />
+  <ConsultationCta />
+  <MapSection />
+</BaseLayout>
