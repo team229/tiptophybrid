@@ -11,6 +11,12 @@ export const GET: APIRoute = () => {
     priority: p.slug === 'home' ? '1.0' : p.template === 'entry-content' ? '0.6' : '0.8',
   }));
 
+  // Hand-written pages that are not part of the captured WordPress sitemap.
+  urls.push(
+    { loc: `${ORIGIN}/privacy-policy/`, lastmod: undefined, changefreq: 'yearly', priority: '0.3' },
+    { loc: `${ORIGIN}/terms/`, lastmod: undefined, changefreq: 'yearly', priority: '0.3' },
+  );
+
   const body = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 ${urls
@@ -30,4 +36,3 @@ ${urls
 };
 
 export const prerender = true;
-export const _unused = ORIGIN;

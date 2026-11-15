@@ -100,6 +100,15 @@ export default function Footer() {
 
         <div className="mt-10 pt-6 border-t border-gray-700 text-center text-sm text-white">
           <p>© 2026 Tip Top Hybrid. All Rights Reserved.</p>
+          <p className="mt-2 flex flex-wrap items-center justify-center gap-x-2 gap-y-1 text-xs text-gray-300">
+            <a href="/privacy-policy/" className="transition duration-200 hover:text-green-400">
+              Privacy Policy
+            </a>
+            <span aria-hidden="true">·</span>
+            <a href="/terms/" className="transition duration-200 hover:text-green-400">
+              Terms of Service
+            </a>
+          </p>
         </div>
       </div>
     </footer>

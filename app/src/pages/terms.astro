@@ -1,0 +1,123 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import LegalShell from '../components/legal/LegalShell.astro';
+import { legalPage } from '../data/legal';
+import { SITE } from '../data/site';
+
+const page = legalPage(
+  'terms',
+  '/terms/',
+  'Terms of Service | Tip Top Hybrid',
+  'The terms that apply when you use the Tip Top Hybrid website, request an estimate, or have us repair or service your vehicle.',
+);
+---
+
+<BaseLayout page={page}>
+  <LegalShell title="Terms of Service" updated="November 15, 2026">
+    <p>
+      These Terms of Service (“Terms”) govern your use of <strong>www.tiptophybrid.com</strong> (the
+      “Site”) and any estimate, appointment or repair service you request from
+      <strong>Tip Top Hybrid</strong> (“we”, “us”, “our”). By using the Site or booking service, you
+      accept these Terms. If you do not agree, please do not use the Site.
+    </p>
+
+    <h2>1. Who we are</h2>
+    <p>
+      Tip Top Hybrid is an independent hybrid vehicle repair shop located at
+      {SITE.street}, Upland, CA 91786. You can reach us on {SITE.phone} or at
+      <a href={`mailto:${SITE.email}`}>{SITE.email}</a>.
+    </p>
+
+    <h2>2. Website content</h2>
+    <p>
+      The content on this Site — including service descriptions, pricing guidance, articles and
+      frequently asked questions — is provided for general information only. It is not a diagnosis,
+      a repair order or a guarantee that a particular repair will fix a particular symptom. Hybrid
+      systems vary by model, year and condition, and only an in-person inspection can confirm what
+      your vehicle needs.
+    </p>
+
+    <h2>3. Estimates and pricing</h2>
+    <ul>
+      <li>Estimates given online, by phone or in person are good-faith estimates based on the information available at the time. They are not fixed-price quotes unless we state so in writing.</li>
+      <li>Diagnostic time, teardown and inspection may be charged and will be explained before work begins where practicable.</li>
+      <li>Additional faults, parts availability or hidden damage may change the scope and cost. We will contact you for approval before performing work that materially exceeds the approved estimate.</li>
+      <li>Prices are in US dollars and may change without notice. Taxes, fees and disposal charges are additional where applicable.</li>
+    </ul>
+
+    <h2>4. Appointments, drop-off and storage</h2>
+    <ul>
+      <li>Appointment times are targets, not guarantees. Repair duration depends on diagnosis, parts and conditions outside our control.</li>
+      <li>You authorise us to operate, road-test and move your vehicle for the purpose of inspection, diagnosis, repair and quality checks.</li>
+      <li>Please remove valuables and personal items before drop-off. We are not responsible for items left in the vehicle.</li>
+      <li>Vehicles must be collected within a reasonable time after we notify you that work is complete. Storage and lien rights for uncollected vehicles are governed by applicable California law.</li>
+    </ul>
+
+    <h2>5. Parts and warranty</h2>
+    <ul>
+      <li>We may use new, remanufactured or reconditioned parts depending on the repair and your approval. The parts used are recorded on your invoice.</li>
+      <li>Our workmanship and any parts warranty we provide are stated on your invoice or estimate. Manufacturer and supplier warranties pass through to you where applicable.</li>
+      <li>Warranty coverage does not apply to unrelated failures, misuse, accidents, modifications, or work performed by another shop after our repair.</li>
+      <li>Except as expressly stated on your invoice, and to the fullest extent permitted by law, we disclaim all other warranties, including implied warranties of merchantability and fitness for a particular purpose.</li>
+    </ul>
+
+    <h2>6. Your responsibilities</h2>
+    <ul>
+      <li>Give us accurate contact, vehicle and service information, and tell us about previous repairs, modifications or known faults.</li>
+      <li>Ensure the vehicle is delivered with the keys, wheel-lock key and any security codes we need.</li>
+      <li>Pay the invoiced amount when the work is complete, unless we have agreed other terms in writing.</li>
+      <li>Use this Site lawfully and do not attempt to interfere with it, scrape it, or submit false or abusive enquiries.</li>
+    </ul>
+
+    <h2>7. Intellectual property</h2>
+    <p>
+      The Site’s text, layout, logos, photographs and other content are owned by us or used with
+      permission and are protected by copyright and trademark law. You may view and print pages for
+      your own non-commercial use; any other reproduction or commercial use requires our written
+      permission.
+    </p>
+
+    <h2>8. Third-party links</h2>
+    <p>
+      The Site may link to third-party websites, including Google Maps and social media. We do not
+      control those sites and are not responsible for their content or practices.
+    </p>
+
+    <h2>9. Limitation of liability</h2>
+    <p>
+      To the fullest extent permitted by law, we are not liable for indirect, incidental, special or
+      consequential damages arising from your use of the Site or from services, including lost
+      profits, lost time or loss of use of a vehicle. Nothing in these Terms limits liability that
+      cannot lawfully be limited, including liability for our own negligence where such a limitation
+      is prohibited. The Site is provided “as is” and we do not warrant that it will be uninterrupted
+      or error-free.
+    </p>
+
+    <h2>10. Indemnity</h2>
+    <p>
+      You agree to indemnify us against claims, losses or costs arising from your breach of these
+      Terms, your misuse of the Site, or inaccurate information you provide to us.
+    </p>
+
+    <h2>11. Governing law</h2>
+    <p>
+      These Terms are governed by the laws of the State of California. Any dispute that cannot be
+      resolved informally will be brought in the state or federal courts located in San Bernardino
+      County, California, unless applicable law requires otherwise.
+    </p>
+
+    <h2>12. Changes</h2>
+    <p>
+      We may update these Terms from time to time. The revision date above shows the current version,
+      which applies from the date it is posted. Your continued use of the Site after a change means
+      you accept the updated Terms.
+    </p>
+
+    <h2>13. Contact</h2>
+    <p>
+      Questions about these Terms? Call {SITE.phone}, email
+      <a href={`mailto:${SITE.email}`}>{SITE.email}</a>, or write to us at {SITE.street}, Upland, CA
+      91786.
+    </p>
+  </LegalShell>
+</BaseLayout>
