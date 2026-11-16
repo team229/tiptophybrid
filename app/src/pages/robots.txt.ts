@@ -3,6 +3,8 @@ import type { APIRoute } from 'astro';
 export const GET: APIRoute = () => {
   const body = `User-agent: *
 Disallow: /wp-admin/
+Disallow: /wp-content/plugins/
+Disallow: /*?wordfence_lh=
 Allow: /
 
 Sitemap: https://www.tiptophybrid.com/sitemap.xml
