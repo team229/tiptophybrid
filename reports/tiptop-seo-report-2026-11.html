@@ -1,0 +1,203 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Tip Top Hybrid — SEO Review & Implementation Report, November 2026</title>
+<style>
+  :root { --green:#39b54a; --green-d:#136d15; --ink:#17241b; --muted:#5d6c62; --line:#dfe8e1; --bg:#f6f9f7; }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--bg); color:#33433a; font:16px/1.7 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; }
+  .wrap { max-width: 940px; margin: 0 auto; padding: 40px 22px 70px; }
+  header.cover { background:#14231a; color:#fff; padding:54px 22px; }
+  header.cover .in { max-width:940px; margin:0 auto; }
+  .kicker { color:var(--green); font-size:12px; font-weight:800; letter-spacing:.16em; text-transform:uppercase; }
+  h1 { margin:.4rem 0 .6rem; font-size:2.45rem; line-height:1.1; letter-spacing:-.02em; }
+  header.cover p { color:#c9d6cd; max-width:720px; margin:0; }
+  .meta { margin-top:22px; display:flex; flex-wrap:wrap; gap:10px; }
+  .meta span { border:1px solid rgba(255,255,255,.18); border-radius:999px; padding:5px 12px; font-size:12.5px; color:#dce7df; }
+  h2 { font-size:1.55rem; line-height:1.25; color:var(--ink); margin:2.4em 0 .5em; letter-spacing:-.01em; }
+  h3 { font-size:1.08rem; color:var(--ink); margin:1.7em 0 .35em; }
+  p { margin:0 0 1em; }
+  ul,ol { margin:0 0 1.2em 1.3em; padding-left:.9em; }
+  li { margin-bottom:.45em; }
+  .card { background:#fff; border:1px solid var(--line); border-radius:14px; padding:24px 26px; margin:1.2em 0; }
+  .grid { display:grid; gap:16px; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); }
+  .stat { background:#fff; border:1px solid var(--line); border-radius:12px; padding:16px 18px; }
+  .stat b { display:block; font-size:1.6rem; color:var(--ink); line-height:1.1; }
+  .stat span { font-size:.86rem; color:var(--muted); }
+  table { width:100%; border-collapse:collapse; margin:1.2em 0; font-size:.93rem; background:#fff; }
+  th,td { text-align:left; padding:10px 12px; border-bottom:1px solid var(--line); vertical-align:top; }
+  th { background:#eef5ef; color:var(--ink); font-weight:700; }
+  tr:nth-child(even) td { background:#fafcfb; }
+  .good { color:var(--green-d); font-weight:700; }
+  .warn { color:#a3550c; font-weight:700; }
+  .pill { display:inline-block; background:#eaf6ec; color:var(--green-d); border-radius:999px; padding:2px 9px; font-size:.75rem; font-weight:700; }
+  .callout { border-left:4px solid var(--green); background:#fff; padding:14px 18px; border-radius:0 10px 10px 0; margin:1.2em 0; }
+  .muted { color:var(--muted); font-size:.9rem; }
+  footer { margin-top:44px; border-top:1px solid var(--line); padding-top:18px; color:var(--muted); font-size:.85rem; }
+  @media print { body{background:#fff} header.cover{background:#14231a} .card,.stat,table{break-inside:avoid} }
+</style>
+</head>
+<body>
+
+<header class="cover">
+  <div class="in">
+    <div class="kicker">SEO review &amp; implementation</div>
+    <h1>Tip Top Hybrid — what we found and what we shipped</h1>
+    <p>Search Console diagnosis, live SERP review, keyword targeting, page rebuilds, schema, and the 90-day off-page plan for tiptophybrid.com.</p>
+    <div class="meta">
+      <span>20 November 2026</span>
+      <span>Prepared for Tip Top Hybrid</span>
+      <span>tiptophybrid.com</span>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+
+  <h2>1. Executive summary</h2>
+  <div class="card">
+    <p>The site had a split personality. The blog was doing the heavy lifting in Google, while the pages that sell repairs were almost invisible. Six service pages averaged <strong>220–690 words</strong>, two of them ranked for <strong>zero commercial queries</strong>, and there was <strong>no About page</strong>.</p>
+    <p>We rebuilt the service section, the services hub, testimonials and About around real search demand, added service and FAQ schema, and fixed a review-count claim that could not be supported. The off-page profile is weak but the local competitors are weak too — this is a winnable market with citations, reviews and a handful of genuine local links.</p>
+  </div>
+
+  <div class="grid">
+    <div class="stat"><b>6</b><span>service pages rebuilt</span></div>
+    <div class="stat"><b>3</b><span>new or rebuilt trust pages</span></div>
+    <div class="stat"><b>0 → 6</b><span>service pages with FAQ schema</span></div>
+    <div class="stat"><b>72</b><span>unsupported review claims corrected</span></div>
+  </div>
+
+  <h2>2. What the data said</h2>
+  <h3>Search Console, 20 May – 18 November 2026</h3>
+  <table>
+    <thead><tr><th>Page</th><th>Impressions</th><th>Position</th><th>Queries</th></tr></thead>
+    <tbody>
+      <tr><td><code>/what-is-a-brake-actuator/</code> (blog)</td><td>35,004</td><td>4.9</td><td>ranking</td></tr>
+      <tr><td><code>/hybrid-fuel-economy-drops-10-causes-fixes…/</code> (blog)</td><td>21,272</td><td>5.4</td><td>ranking</td></tr>
+      <tr><td><code>/toyota-prius-battery-repair-replacement/</code> <span class="pill">service</span></td><td>853</td><td>30.0</td><td>50, none commercial</td></tr>
+      <tr><td><code>/high-voltage-system-repair/</code> <span class="pill">service</span></td><td>269</td><td>16.8</td><td>8</td></tr>
+      <tr><td><code>/inverter-brake-actuator-repair/</code> <span class="pill">service</span></td><td>1</td><td>—</td><td>1</td></tr>
+      <tr><td><code>/inverter-water-pump-service/</code> <span class="pill">service</span></td><td>0</td><td>—</td><td>0</td></tr>
+      <tr><td><code>/testimonials/</code></td><td>492</td><td>5.3</td><td>1 (branded)</td></tr>
+      <tr><td><code>/upland-auto-body-car-repair-shop-services/</code></td><td>2</td><td>—</td><td>1 (branded)</td></tr>
+    </tbody>
+  </table>
+  <p class="muted">The strongest commercial phrase the site ranked for was “hybrid battery replacement near me” at position 4.5 — but it pointed at a blog-style URL, not the battery service page.</p>
+
+  <h3>Backlink profile</h3>
+  <table>
+    <thead><tr><th>Domain</th><th>Referring domains</th><th>Backlinks</th><th>Rank</th><th>Spam score</th></tr></thead>
+    <tbody>
+      <tr><td>tiptophybrid.com</td><td>59</td><td>64</td><td>0</td><td class="warn">60</td></tr>
+      <tr><td>gasketmasters.com</td><td>71</td><td>73</td><td>0</td><td>55</td></tr>
+      <tr><td>kingofhybrid.com</td><td>70</td><td>85</td><td>11</td><td>46</td></tr>
+    </tbody>
+  </table>
+  <p>Authority is low across the local set, so links are not the wall — but Tip Top has the highest spam score of the three. Clean the profile before building.</p>
+
+  <h2>3. Keyword targeting</h2>
+  <p>Volumes are US monthly, from live keyword data on 20 November 2026.</p>
+  <table>
+    <thead><tr><th>Page</th><th>Primary keyword</th><th>Volume</th><th>Supporting terms</th></tr></thead>
+    <tbody>
+      <tr><td><code>/toyota-prius-battery-repair-replacement/</code></td><td>toyota prius hybrid battery replacement</td><td>6,600</td><td>hybrid battery replacement, prius battery repair, reconditioning</td></tr>
+      <tr><td><code>/upland-auto-body-car-repair-shop-services/</code></td><td>hybrid car repair near me</td><td>2,400</td><td>hybrid mechanic near me, hybrid specialist near me</td></tr>
+      <tr><td><code>/inverter-brake-actuator-repair/</code></td><td>brake actuator repair</td><td>90–140</td><td>prius brake actuator, C1256, C1310, C1391, P0A93</td></tr>
+      <tr><td><code>/inverter-water-pump-service/</code></td><td>prius inverter water pump</td><td>90</td><td>inverter water pump replacement, P0A93</td></tr>
+      <tr><td><code>/hybrid-transaxle-drivetrain-service/</code></td><td>hybrid transmission repair</td><td>50</td><td>hybrid transaxle repair, transaxle service</td></tr>
+      <tr><td><code>/hybrid-engine-transmission-replacement/</code></td><td>prius engine replacement</td><td>50</td><td>hybrid engine replacement, head gasket</td></tr>
+      <tr><td><code>/high-voltage-system-repair/</code></td><td>high voltage hybrid battery repair</td><td>100 imp</td><td>isolation fault, HV cable, service plug</td></tr>
+    </tbody>
+  </table>
+
+  <div class="callout">
+    <strong>Two SERP traps avoided.</strong> “Hybrid inverter repair” is dominated by <em>solar</em> inverters — the page now targets hybrid-car and Prius inverter intent. “Prius brake actuator replacement” is a parts query (eBay, Toyota parts); the page targets repair and code intent instead.
+  </div>
+
+  <h2>4. What was implemented</h2>
+  <table>
+    <thead><tr><th>Page</th><th>Before</th><th>After</th><th>What it now includes</th></tr></thead>
+    <tbody>
+      <tr><td><code>/toyota-prius-battery-repair-replacement/</code></td><td>321 words</td><td>~1,700</td><td>Answer block, 8 symptoms, repair/recondition/replace table, dated price table, 4-step process, model coverage, local section, 8 FAQs, 6 internal links</td></tr>
+      <tr><td><code>/high-voltage-system-repair/</code></td><td>242 words</td><td>~1,400</td><td>Safety-first diagnosis, fault table, isolation testing, price ranges, 6 FAQs</td></tr>
+      <tr><td><code>/inverter-brake-actuator-repair/</code></td><td>224 words</td><td>~1,600</td><td>Code table (C1256/C1310/C1391/P0A93/P0A94), part-vs-sensor diagnosis, costs, 6 FAQs</td></tr>
+      <tr><td><code>/inverter-water-pump-service/</code></td><td>229 words</td><td>~1,300</td><td>P0A93 prevention angle, cost table, process, 6 FAQs</td></tr>
+      <tr><td><code>/hybrid-transaxle-drivetrain-service/</code></td><td>620 words</td><td>~1,500</td><td>Noise diagnosis, used vs rebuilt vs new costs, 6 FAQs</td></tr>
+      <tr><td><code>/hybrid-engine-transmission-replacement/</code></td><td>694 words</td><td>~1,500</td><td>Head gasket and engine replacement, test-first angle, costs, 6 FAQs</td></tr>
+      <tr><td><code>/upland-auto-body-car-repair-shop-services/</code></td><td>43 words</td><td>~1,100</td><td>Six service cards, “not sure what’s wrong” diagnostic path, specialist proof, service area, 6 FAQs</td></tr>
+      <tr><td><code>/testimonials/</code></td><td>265 words</td><td>~900</td><td>Verified 5.0 rating, five real reviews, review themes, Google review CTA</td></tr>
+      <tr><td><code>/about-us/</code></td><td>did not exist</td><td>~900</td><td>New page, founder/Jay context, process values, service coverage, 5 FAQs, linked in header and footer</td></tr>
+      <tr><td><code>/contact/</code></td><td>343 words, no H1</td><td>~800</td><td>H1, phone/address/hours cards, working form, what to include, map, 5 FAQs, ContactPage schema</td></tr>
+    </tbody>
+  </table>
+
+  <h3>Schema added</h3>
+  <ul>
+    <li><strong>Service</strong> + <strong>FAQPage</strong> + <strong>BreadcrumbList</strong> on all six service pages.</li>
+    <li><strong>CollectionPage</strong> + <strong>ItemList</strong> + FAQ on the services hub.</li>
+    <li><strong>AggregateRating</strong> + <strong>Review</strong> on testimonials, matching the visible 5.0 / 8 Google reviews.</li>
+    <li><strong>AboutPage</strong> + FAQ on About; <strong>ContactPage</strong> + FAQ on Contact.</li>
+  </ul>
+
+  <h3>Site-wide fixes</h3>
+  <ul>
+    <li>Added About to the desktop and mobile navigation and the footer quick links.</li>
+    <li>Fixed 72 city pages that claimed “5 stars, 180+ reviews”. The Google Business Profile shows 8 reviews, so the claim was a trust and compliance risk. All now say “5.0 rated on Google”.</li>
+    <li>Reduced Bunny CDN browser caching from 30 days to 10 minutes so updates appear without a hard refresh.</li>
+    <li>Every service page links to the blog posts that already rank, and those posts link back.</li>
+  </ul>
+
+  <h2>5. Off-page plan, 90 days</h2>
+  <div class="card">
+    <h3 style="margin-top:0">Fix the foundation</h3>
+    <ol>
+      <li>Export the backlink profile, mark directory spam and PBNs, disavow in Search Console. Spam score 60 needs attention.</li>
+      <li>One NAP everywhere: <strong>Tip Top Hybrid · 1894 W 9th St Ste B, Upland, CA 91786 · 909-238-7028</strong>.</li>
+      <li>Confirm www is the only indexed host and the CDN host canonicalises to it.</li>
+    </ol>
+    <h3>Google Business Profile — highest return, no cost</h3>
+    <ul>
+      <li>Primary category Auto repair shop; secondary hybrid battery, auto electrical, battery store.</li>
+      <li>All six services with descriptions; 30+ real photos refreshed monthly; one post per week.</li>
+      <li>Answer every review within 48 hours, mention the service and city.</li>
+      <li>Seed 10 Q&amp;As from the service-page FAQ blocks.</li>
+    </ul>
+    <h3>Reviews — target 40 by May 2027</h3>
+    <p>QR card at pickup, same-day text with the Google link, no incentives. Six to eight new reviews a month is enough to pass the local set.</p>
+    <h3>Citations</h3>
+    <p>Yelp, BBB, Bing Places, Apple Business Connect, Nextdoor, RepairPal, Carfax Service Shop, Mechanic Advisor, Upland and Montclair chambers. Exact NAP, one category, no keyword-stuffed business names.</p>
+    <h3>Six to ten real local links</h3>
+    <p>Upland Chamber, city community pages, Inland Valley Daily Bulletin, local car clubs and hybrid owner groups, school auto programs, parts partners, a local charity sponsorship. No paid guest-post networks.</p>
+    <h3>Link-earning content</h3>
+    <ul>
+      <li>Inland Empire hybrid battery heat study using anonymised shop data.</li>
+      <li>Prius Gen 3 head gasket cost guide — the most complete in California.</li>
+      <li>Brake actuator code library (C1256, C1310, C1391).</li>
+      <li>“Is it worth fixing?” repair-vs-value calculator.</li>
+    </ul>
+  </div>
+
+  <h2>6. Measurement</h2>
+  <table>
+    <thead><tr><th>Metric</th><th>Now</th><th>90-day target</th></tr></thead>
+    <tbody>
+      <tr><td>Referring domains</td><td>59</td><td>85</td></tr>
+      <tr><td>Google reviews</td><td>8</td><td>30–40</td></tr>
+      <tr><td>Commercial queries per service page</td><td>0–8</td><td>25+</td></tr>
+      <tr><td>“hybrid battery replacement near me”</td><td>position 4.5</td><td>top 3</td></tr>
+      <tr><td>Service-page form fills / calls</td><td>baseline in GA4</td><td>+50%</td></tr>
+    </tbody>
+  </table>
+
+  <h2>7. Research cost</h2>
+  <p>Paid research used <strong>364 OpenSEO credits</strong> (4.2% of the shared balance at the time). That covered keyword metrics for 41 terms, live SERP checks for eight money keywords, one keyword-idea set and three backlink profiles. No call exceeded its estimate.</p>
+
+  <footer>
+    Prepared by ClickBoost Media · 20 November 2026 · Data: Google Search Console, live Google SERPs, DataForSEO via OpenSEO, Google Business Profile.
+  </footer>
+</div>
+</body>
+</html>
