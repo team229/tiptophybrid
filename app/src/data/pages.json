@@ -6612,24 +6612,24 @@
     "path": "/contact/",
     "template": "cs-content",
     "seo": {
-      "title": "Contact | Tip Top Hybrid",
-      "description": "Get in touch with Tip Top Hybrid for expert hybrid and auto repair support. Contact us today for estimates, appointments, and reliable service near you!",
+      "title": "Contact Tip Top Hybrid | Hybrid Repair in Upland, CA",
+      "description": "Contact Tip Top Hybrid in Upland, CA. Call 909-238-7028 or send the form for hybrid battery, inverter, brake actuator, transaxle and engine repair.",
       "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
       "ogLocale": "en_US",
       "ogType": "article",
-      "ogTitle": "Contact | Tip Top Hybrid",
-      "ogDescription": "Get in touch with Tip Top Hybrid for expert hybrid and auto repair support. Contact us today for estimates, appointments, and reliable service near you!",
+      "ogTitle": "Contact Tip Top Hybrid | Hybrid Repair in Upland, CA",
+      "ogDescription": "Contact Tip Top Hybrid in Upland, CA. Call 909-238-7028 or send the form for hybrid battery, inverter, brake actuator, transaxle and engine repair.",
       "ogUrl": "https://www.tiptophybrid.com/contact/",
       "ogSiteName": "Tip Top Auto Electric",
       "ogImage": "",
       "twitterCard": "summary_large_image",
-      "twitterTitle": "",
-      "twitterDescription": "",
+      "twitterTitle": "Contact Tip Top Hybrid | Hybrid Repair in Upland, CA",
+      "twitterDescription": "Contact Tip Top Hybrid in Upland, CA. Call 909-238-7028 or send the form for hybrid battery, inverter, brake actuator, transaxle and engine repair.",
       "twitterImage": "",
       "canonical": "https://www.tiptophybrid.com/contact/",
       "next": "",
       "prev": "",
-      "modified": "2026-08-10T05:52:25+00:00",
+      "modified": "2026-11-20T14:00:00+00:00",
       "published": "",
       "generator": "Elementor 4.2.4; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap",
       "tileImage": "https://www.tiptophybrid.com/wp-content/uploads/2020/01/cropped-Auto-Electric-Black-1-270x270.png",
@@ -6672,74 +6672,6 @@
       ]
     },
     "jsonld": [
-      {
-        "@context": "https://schema.org",
-        "@graph": [
-          {
-            "@type": "WebPage",
-            "@id": "https://www.tiptophybrid.com/contact/",
-            "url": "https://www.tiptophybrid.com/contact/",
-            "name": "Contact | Tip Top Hybrid",
-            "isPartOf": {
-              "@id": "https://www.tiptophybrid.com/#website"
-            },
-            "datePublished": "2016-05-17T23:45:27+00:00",
-            "dateModified": "2026-08-10T05:52:25+00:00",
-            "description": "Get in touch with Tip Top Hybrid for expert hybrid and auto repair support. Contact us today for estimates, appointments, and reliable service near you!",
-            "breadcrumb": {
-              "@id": "https://www.tiptophybrid.com/contact/#breadcrumb"
-            },
-            "inLanguage": "en-US",
-            "potentialAction": [
-              {
-                "@type": "ReadAction",
-                "target": [
-                  "https://www.tiptophybrid.com/contact/"
-                ]
-              }
-            ]
-          },
-          {
-            "@type": "BreadcrumbList",
-            "@id": "https://www.tiptophybrid.com/contact/#breadcrumb",
-            "itemListElement": [
-              {
-                "@type": "ListItem",
-                "position": 1,
-                "name": "Home",
-                "item": "https://www.tiptophybrid.com/"
-              },
-              {
-                "@type": "ListItem",
-                "position": 2,
-                "name": "Contact"
-              }
-            ]
-          },
-          {
-            "@type": "WebSite",
-            "@id": "https://www.tiptophybrid.com/#website",
-            "url": "https://www.tiptophybrid.com/",
-            "name": "Tip Top Auto Electric",
-            "description": "",
-            "potentialAction": [
-              {
-                "@type": "SearchAction",
-                "target": {
-                  "@type": "EntryPoint",
-                  "urlTemplate": "https://www.tiptophybrid.com/?s={search_term_string}"
-                },
-                "query-input": {
-                  "@type": "PropertyValueSpecification",
-                  "valueRequired": true,
-                  "valueName": "search_term_string"
-                }
-              }
-            ],
-            "inLanguage": "en-US"
-          }
-        ]
-      },
       {
         "@context": "https://schema.org",
         "@type": "AutoRepair",
@@ -6893,7 +6825,6 @@
       }
     ],
     "jsonldRaw": [
-      "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.tiptophybrid.com\\/contact\\/\",\"url\":\"https:\\/\\/www.tiptophybrid.com\\/contact\\/\",\"name\":\"Contact | Tip Top Hybrid\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.tiptophybrid.com\\/#website\"},\"datePublished\":\"2016-05-17T23:45:27+00:00\",\"dateModified\":\"2026-08-10T05:52:25+00:00\",\"description\":\"Get in touch with Tip Top Hybrid for expert hybrid and auto repair support. Contact us today for estimates, appointments, and reliable service near you!\",\"breadcrumb\":{\"@id\":\"https:\\/\\/www.tiptophybrid.com\\/contact\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/www.tiptophybrid.com\\/contact\\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.tiptophybrid.com\\/contact\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/www.tiptophybrid.com\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Contact\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.tiptophybrid.com\\/#website\",\"url\":\"https:\\/\\/www.tiptophybrid.com\\/\",\"name\":\"Tip Top Auto Electric\",\"description\":\"\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/www.tiptophybrid.com\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"}]}",
       "{\r\n  \"@context\": \"https://schema.org\",\r\n  \"@type\": \"AutoRepair\",\r\n  \"name\": \"Tip Top Hybrid\",\r\n  \"image\": \"https://streetviewpixels-pa.googleapis.com/v1/thumbnail?output=thumbnail&cb_client=lu.gallery.gps&panoid=e7xZaQtw_sSMDIOj3xxRuQ&w=243&h=174&thumb=2&yaw=181.48189&pitch=0\",\r\n  \"url\": \"https://www.tiptophybrid.com/\",\r\n  \"logo\": \"https://www.tiptophybrid.com/wp-content/uploads/2025/05/Tip-Top-Hybrid-Logo-White.png\",\r\n  \"telephone\": \"909-238-7028\",\r\n  \"address\": {\r\n    \"@type\": \"PostalAddress\",\r\n    \"streetAddress\": \"1894 W 9th St\",\r\n    \"addressLocality\": \"Upland\",\r\n    \"addressRegion\": \"CA\",\r\n    \"postalCode\": \"91786\",\r\n    \"addressCountry\": \"US\"\r\n  },\r\n  \"priceRange\": \"$\",\r\n  \"description\": \"Toyota Prius specialists providing hybrid car repairs, battery replacements, maintenance, and diagnostics. Serving Upland, Montclair, Claremont, Pomona, Ontario, Chino, Chino Hills, Rancho Cucamonga, Diamond Bar, Walnut, Covina, West Covina, San Dimas, La Verne, Glendora, El Monte, Etiwanda, Eastvale, Jurupa Valley, Fontana, Colton, Rialto, Sierra Lakes, San Bernardino, Norco, Corona, Riverside, Baldwin Park, Azusa, Rowland Heights, Loma Linda, Redlands, Whittier, Brea, and La Habra.\",\r\n  \"areaServed\": [\r\n    \"Upland\",\r\n    \"Montclair\",\r\n    \"Claremont\",\r\n    \"Pomona\",\r\n    \"Ontario\",\r\n    \"Chino\",\r\n    \"Chino Hills\",\r\n    \"Diamond Bar\",\r\n    \"Walnut\",\r\n    \"Covina\",\r\n    \"West Covina\",\r\n    \"San Dimas\",\r\n    \"La Verne\",\r\n    \"Glendora\",\r\n    \"El Monte\",\r\n    \"Rancho Cucamonga\",\r\n    \"Etiwanda\",\r\n    \"Eastvale\",\r\n    \"Jurupa Valley\",\r\n    \"Fontana\",\r\n    \"Colton\",\r\n    \"Rialto\",\r\n    \"Sierra Lakes\",\r\n    \"San Bernardino\",\r\n    \"Norco\",\r\n    \"Corona\",\r\n    \"Riverside\",\r\n    \"Baldwin Park\",\r\n    \"Azusa\",\r\n    \"Rowland Heights\",\r\n    \"Loma Linda\",\r\n    \"Redlands\",\r\n    \"Whittier\",\r\n    \"Brea\",\r\n    \"La Habra\"\r\n  ],\r\n  \"aggregateRating\": {\r\n    \"@type\": \"AggregateRating\",\r\n    \"ratingValue\": \"5\",\r\n    \"reviewCount\": \"180\"\r\n  }\r\n}",
       "{\r\n  \"@context\": \"https://schema.org\",\r\n  \"@type\": \"LocalBusiness\",\r\n  \"name\": \"Tip Top Hybrid\",\r\n  \"description\": \"Toyota Prius Specialists Hybrid Car Repairs, Battery Replacements, & Maintenance Start Your Free Online Estimate Certified Hybrid/EV Technicians Same-Day Appointments Competitive Pricing Transparent Diagnostics Hybrid-Specific Experience Specialized Equipment Hybrid Transaxle & Drivetrain Service Engine & Transmission Replacement Inverter Water Pump Service Inverter & Brake Actuator Repair High-Voltage System Diagnostics & Repair Auto Repair and Service in Upland, CA\",\r\n\"hasMap\": \"https://maps.google.com/?cid=2113706911381666793\",\r\n  \"email\": \"TTACSTIPTOP@yahoo.com\",\r\n  \"image\": \"https://www.tiptophybrid.com/wp-content/uploads/2025/05/Tip-Top-Hybrid-Logo-White.png\",\r\n  \"@id\": \"https://www.tiptophybrid.com/#localbusiness\",\r\n  \"url\": \"https://www.tiptophybrid.com/\",\r\n  \"telephone\": \"+1-909-238-7028\",\r\n  \"priceRange\": \"$\",\r\n  \"address\": {\r\n    \"@type\": \"PostalAddress\",\r\n    \"streetAddress\": \"1894 W 9th St Ste B\",\r\n    \"addressLocality\": \"Upland\",\r\n    \"addressRegion\": \"CA\",\r\n    \"postalCode\": \"91786\",\r\n    \"addressCountry\": \"US\"\r\n  },\r\n  \"geo\": {\r\n    \"@type\": \"GeoCoordinates\",\r\n    \"latitude\": \"34.09524220\",\r\n    \"longitude\": \"-117.68725290\"\r\n  },\r\n  \"aggregateRating\": {\r\n    \"@type\": \"AggregateRating\",\r\n    \"ratingValue\": \"5\",\r\n    \"reviewCount\": \"1\"\r\n  },\r\n  \"additionalType\": [\r\n    \"https://en.wikipedia.org/wiki/Hybrid_electric_vehicle\",\r\n    \"https://en.wikipedia.org/wiki/Lithium_hybrid_organic_battery\"\r\n      ],\r\n  \"openingHoursSpecification\": [{\r\n    \"@type\": \"OpeningHoursSpecification\",\r\n    \"dayOfWeek\": \"Monday\",\r\n    \"opens\": \"08:00\",\r\n    \"closes\": \"19:00\"\r\n  },{\r\n    \"@type\": \"OpeningHoursSpecification\",\r\n    \"dayOfWeek\": \"Tuesday\",\r\n    \"opens\": \"09:00\",\r\n    \"closes\": \"17:00\"\r\n  },{\r\n    \"@type\": \"OpeningHoursSpecification\",\r\n    \"dayOfWeek\": \"Wednesday\",\r\n    \"opens\": \"09:00\",\r\n    \"closes\": \"17:00\"\r\n  },{\r\n    \"@type\": \"OpeningHoursSpecification\",\r\n    \"dayOfWeek\": \"Thursday\",\r\n    \"opens\": \"09:00\",\r\n    \"closes\": \"17:00\"\r\n  },{\r\n    \"@type\": \"OpeningHoursSpecification\",\r\n    \"dayOfWeek\": \"Friday\",\r\n    \"opens\": \"09:00\",\r\n    \"closes\": \"17:00\"\r\n  },{\r\n    \"@type\": \"OpeningHoursSpecification\",\r\n    \"dayOfWeek\": \"Saturday\",\r\n    \"opens\": \"10:00\",\r\n    \"closes\": \"15:00\"\r\n  },{\r\n    \"@type\": \"OpeningHoursSpecification\",\r\n    \"dayOfWeek\": \"Sunday\",\r\n    \"opens\": \"Closed\",\r\n    \"closes\": \"Closed\"\r\n  }]\r\n}",
       "{\r\n    \"@context\": \"http://schema.org/\",\r\n    \"@type\": \"Product\",\r\n    \"name\": \"Tip Top Hybrid\",\r\n    \"aggregateRating\": {\r\n        \"@type\": \"AggregateRating\",\r\n        \"ratingValue\": \"5\",\r\n        \"bestRating\": \"5\",\r\n        \"reviewCount\": \"7\"\r\n    }\r\n}"
@@ -6903,7 +6834,17 @@
       "https://www.tiptophybrid.com/wp-content/uploads/2025/11/Screenshot-from-2025-11-15-00-12-32.jpg"
     ],
     "fragment": "content/contact.html",
-    "headings": []
+    "headings": [
+      "Contact Tip Top Hybrid",
+      "Call the shop",
+      "Visit the shop",
+      "Hours",
+      "Request a call back",
+      "What to include in your message",
+      "Where we are",
+      "Contact questions",
+      "Need an answer now?"
+    ]
   },
   {
     "slug": "do-hybrid-cars-need-oil-change",
