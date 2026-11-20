@@ -1,7 +1,7 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { getFragment } from '../data/content';
-import { getPage, PAGES } from '../data/pages';
+import { getPage, PAGES, bySlug } from '../data/pages';
 
 export function getStaticPaths() {
   return PAGES.filter((p) => p.slug !== 'home').map((page) => ({
@@ -12,9 +12,61 @@ export function getStaticPaths() {
 }
 
 const { page } = Astro.props;
-const content = page.fragment
+
+const AUTHOR = 'Jacob Hilo';
+const MONTHS = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+const MONTHS_SHORT = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+
+/** Format an ISO date without pulling in a date library (build runs at fixed TZ). */
+function formatDate(iso: string | undefined, short = false): string {
+  if (!iso) return '';
+  const d = new Date(iso);
+  if (Number.isNaN(d.getTime())) return '';
+  const month = (short ? MONTHS_SHORT : MONTHS)[d.getUTCMonth()];
+  return `${month} ${d.getUTCDate()}, ${d.getUTCFullYear()}`;
+}
+
+function readingMinutes(html: string): number {
+  const words = html.replace(/<[^>]+>/g, ' ').split(/\s+/).filter(Boolean).length;
+  return Math.max(3, Math.round(words / 220));
+}
+
+function byline(html: string, published?: string, modified?: string): string {
+  const mins = readingMinutes(html);
+  const pub = formatDate(published);
+  const mod = formatDate(modified);
+  const updated = mod && mod !== pub ? `<span class="post-byline-sep">·</span><span>Updated ${mod}</span>` : '';
+  return `<div class="post-byline">
+  <span class="post-avatar" aria-hidden="true">JH</span>
+  <div class="post-byline-text">
+    <span class="post-byline-author">By <strong>${AUTHOR}</strong></span>
+    <span class="post-byline-dates">${pub ? `<time datetime="${published}">${pub}</time>` : ''}<span class="post-byline-sep">·</span><span>${mins} min read</span>${updated}</span>
+  </div>
+</div>`;
+}
+
+let content = page.fragment
   ? getFragment(page.fragment.replace('content/', '').replace(/\.html$/, ''))
   : '';
+
+if (page.template === 'entry-content') {
+  // Remove any hand-written byline, then add the shared one under the H1.
+  content = content.replace(/<p class="post-byline">[\s\S]*?<\/p>\s*/g, '');
+  content = content.replace(/<\/header>/, `</header>\n${byline(content, page.seo.published, page.seo.modified)}`);
+}
+
+if (page.template === 'blog-archive') {
+  // Archive cards: add author + publish date under each card title.
+  content = content.replace(/<article id="post-\d+"[\s\S]*?<\/article>/g, (block) => {
+    if (block.includes('class="post-meta"')) return block;
+    const href = block.match(/href="(?:__ASSET_BASE__)?\/([a-z0-9-]+)\/"/);
+    const post = href ? bySlug.get(href[1]) : undefined;
+    const published = post?.seo?.published;
+    const date = formatDate(published, true);
+    const meta = `<div class="post-meta"><span>By <strong>${AUTHOR}</strong></span>${date ? `<span class="post-meta-sep">·</span><time datetime="${published}">${date}</time>` : ''}</div>`;
+    return block.replace(/<\/header>/, `</header>\n${meta}`);
+  });
+}
 ---
 
 <BaseLayout page={page}>
@@ -32,6 +84,17 @@ const content = page.fragment
       </div>
     )
   }
+
+  {page.slug === 'blogs' && (
+    <div class="blog-index-header">
+      <span class="blog-index-kicker">Tip Top Hybrid blog</span>
+      <h1>Hybrid car repair and ownership guides</h1>
+      <p>
+        Straight answers on hybrid batteries, cooling, inverters and keeping a Prius, Camry
+        or Accord Hybrid on the road in Southern California.
+      </p>
+    </div>
+  )}
 
   {/* The captured fragments for blog posts and the blog index already contain
       their own `.x-main` wrapper, so they are injected as-is. */}

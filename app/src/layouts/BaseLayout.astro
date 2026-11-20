@@ -81,6 +81,8 @@ const fontLinks = headParts.fontLinks.map((l) => withAssetBase(l));
 
     {seo.robots && <meta name="robots" content={seo.robots} />}
     {seo.description && <meta name="description" content={seo.description} />}
+    {page.template === 'entry-content' && <meta name="author" content="Jacob Hilo" />}
+    {page.template === 'entry-content' && <meta property="article:author" content="Jacob Hilo" />}
 
     {seo.ogLocale && <meta property="og:locale" content={seo.ogLocale} />}
     {seo.ogType && <meta property="og:type" content={seo.ogType} />}

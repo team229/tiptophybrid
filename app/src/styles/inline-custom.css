@@ -102,12 +102,3 @@
 				user-select: none;
 			}
 		
-/* New blog posts: visible byline under the entry title (E-E-A-T). */
-.entry-header + .post-byline,
-.post-byline {
-  margin: 0.35em 0 1.6em;
-  font-size: 0.82rem;
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
-  color: #6b7d70;
-}

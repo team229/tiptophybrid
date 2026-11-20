@@ -16,6 +16,7 @@
 @import './wp-emoji.css';
 @import './wp-img-auto-sizes.css';
 @import './inline-custom.css';
+@import './blog.css';
 
 @tailwind base;
 @tailwind components;
