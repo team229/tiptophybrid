@@ -1,7 +1,12 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import ServicePage from '../components/ServicePage.astro';
+import ServicesHub from '../components/ServicesHub.astro';
+import TestimonialsPage from '../components/TestimonialsPage.astro';
+import AboutPage from '../components/AboutPage.astro';
 import { getFragment } from '../data/content';
 import { getPage, PAGES, bySlug } from '../data/pages';
+import { SERVICE_PAGES } from '../data/services';
 
 export function getStaticPaths() {
   return PAGES.filter((p) => p.slug !== 'home').map((page) => ({
@@ -12,6 +17,7 @@ export function getStaticPaths() {
 }
 
 const { page } = Astro.props;
+const service = SERVICE_PAGES[page.slug];
 
 const AUTHOR = 'Jacob Hilo';
 const MONTHS = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
@@ -70,31 +76,30 @@ if (page.template === 'blog-archive') {
 ---
 
 <BaseLayout page={page}>
-  {
-    page.template === 'cs-content' && (
-      <div class="x-main full" role="main">
-        <article
-          id={`post-${page.slug}`}
-          class={`post-${page.slug} page type-page status-publish hentry no-post-thumbnail`}
-        >
-          <div class="entry-content content">
-            <div id="cs-content" class="cs-content" set:html={content} />
-          </div>
-        </article>
-      </div>
-    )
-  }
+  {service && <ServicePage service={service} />}
 
-  {page.slug === 'blogs' && (
-    <div class="blog-index-header">
-      <span class="blog-index-kicker">Tip Top Hybrid blog</span>
-      <h1>Hybrid car repair and ownership guides</h1>
-      <p>
-        Straight answers on hybrid batteries, cooling, inverters and keeping a Prius, Camry
-        or Accord Hybrid on the road in Southern California.
-      </p>
-    </div>
-  )}
+  {page.slug === 'upland-auto-body-car-repair-shop-services' && <ServicesHub />}
+
+  {page.slug === 'testimonials' && <TestimonialsPage />}
+
+  {page.slug === 'about-us' && <AboutPage />}
+
+  {
+    page.template === 'cs-content' &&
+      !service &&
+      !['upland-auto-body-car-repair-shop-services', 'testimonials', 'about-us'].includes(page.slug) && (
+        <div class="x-main full" role="main">
+          <article
+            id={`post-${page.slug}`}
+            class={`post-${page.slug} page type-page status-publish hentry no-post-thumbnail`}
+          >
+            <div class="entry-content content">
+              <div id="cs-content" class="cs-content" set:html={content} />
+            </div>
+          </article>
+        </div>
+      )
+  }
 
   {/* The captured fragments for blog posts and the blog index already contain
       their own `.x-main` wrapper, so they are injected as-is. */}
@@ -105,7 +110,7 @@ if (page.template === 'blog-archive') {
   )}
 
   {
-    page.template === 'elementor-html' && (
+    page.template === 'elementor-html' && !service && (
       <div class="elementor elementor-page" set:html={content} />
     )
   }

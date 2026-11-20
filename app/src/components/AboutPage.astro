@@ -1,0 +1,194 @@
+---
+import { SITE, SERVICES } from '../data/site';
+
+const tel = SITE.phone;
+const telHref = `tel:${SITE.phoneRaw}`;
+
+
+const values = [
+  ['Test before replacing', 'A code points at a circuit, not a part. We test the circuit before we quote the repair.'],
+  ['Explain the options', 'Repair, recondition or replace, with the cost, turnaround and warranty for each.'],
+  ['Quote in writing', 'The number you approve is the number you pay. No surprise add-ons at pickup.'],
+  ['Keep it drivable', 'If the car is not safe to drive, we say so before you get back on the road.'],
+];
+
+const faqs = [
+  {
+    q: 'What kind of shop is Tip Top Hybrid?',
+    a: 'We are an independent hybrid repair shop in Upland, California, focused on Toyota and Lexus hybrids and also servicing Honda, Ford and other hybrid models. Our work covers hybrid batteries, high-voltage systems, inverters, brake actuators, transaxles and engine replacement.',
+  },
+  {
+    q: 'Are you a Toyota dealer?',
+    a: 'No. We are independent. That means dealer-level diagnostic capability without dealer parts and labor pricing, and we can use new OEM, remanufactured or tested used parts depending on your budget and the job.',
+  },
+  {
+    q: 'Do you work on hybrids other than the Prius?',
+    a: 'Yes. We service Camry Hybrid, RAV4 Hybrid, Highlander Hybrid, Prius Prime, Lexus CT 200h, ES 300h and RX 450h, Honda Accord and Civic hybrids, and Ford Fusion and Escape hybrids.',
+  },
+  {
+    q: 'Where do you service customers from?',
+    a: 'Our shop is at 1894 W 9th St Ste B, Upland, CA 91786. Customers come from Upland, Montclair, Claremont, Pomona, Rancho Cucamonga, Ontario, Chino, San Bernardino, Riverside, Corona and the wider Inland Empire.',
+  },
+  {
+    q: 'Can I get an estimate before I book?',
+    a: 'Yes. Send the year, make, model and symptoms through the free estimate form or call 909-238-7028. If diagnosis is needed, we confirm that fee before the car is worked on.',
+  },
+];
+const url = 'https://www.tiptophybrid.com/about-us/';
+const schema = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    {
+      '@type': 'AboutPage',
+      '@id': url,
+      url,
+      name: 'About Tip Top Hybrid',
+      description: 'Independent hybrid repair shop in Upland, California, specializing in hybrid batteries, high-voltage systems, inverters, brake actuators and transaxles.',
+      about: { '@id': 'https://www.tiptophybrid.com/#organization' },
+    },
+    {
+      '@type': 'FAQPage',
+      '@id': `${url}#faq`,
+      mainEntity: faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })),
+    },
+    {
+      '@type': 'BreadcrumbList',
+      '@id': `${url}#breadcrumb`,
+      itemListElement: [
+        { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://www.tiptophybrid.com/' },
+        { '@type': 'ListItem', position: 2, name: 'About' },
+      ],
+    },
+  ],
+};
+---
+
+<script type="application/ld+json" set:html={JSON.stringify(schema)} />
+
+<div class="service-page">
+  <nav class="mx-auto max-w-6xl px-5 pt-6 text-sm text-slate-500" aria-label="Breadcrumb">
+    <ol class="flex flex-wrap items-center gap-2">
+      <li><a class="hover:text-green-700" href="/">Home</a></li>
+      <li aria-hidden="true">/</li>
+      <li class="text-slate-700">About</li>
+    </ol>
+  </nav>
+
+  <section class="mx-auto grid max-w-6xl gap-10 px-5 py-10 lg:grid-cols-[1.1fr_0.9fr] lg:items-center lg:py-14">
+    <div>
+      <p class="mb-3 text-xs font-bold uppercase tracking-[0.14em] text-green-700">About Tip Top Hybrid</p>
+      <h1 class="text-3xl font-extrabold leading-tight tracking-tight text-slate-900 sm:text-4xl lg:text-[2.8rem]">
+        A hybrid shop, not a general garage
+      </h1>
+      <p class="mt-5 text-lg leading-relaxed text-slate-700">
+        Tip Top Hybrid is an independent hybrid repair shop in Upland, California. We work on the systems that make a
+        hybrid different: the traction battery, the high-voltage cables, the inverter, the brake actuator and the
+        transaxle. It is the work a general shop often sends away.
+      </p>
+      <p class="mt-4 text-[1.04rem] leading-[1.8] text-slate-700">
+        The shop is run by Jay, a hybrid specialist customers mention by name in reviews for explaining the diagnosis
+        and sticking to the quote. Most of our work comes from repeat customers and referrals across the Inland Empire.
+      </p>
+      <div class="mt-7 flex flex-wrap gap-3">
+        <a href={telHref} class="rounded-lg bg-green-600 px-6 py-3 font-bold text-white hover:bg-green-700">Call {tel}</a>
+        <a href="/free-estimate/" class="rounded-lg border border-slate-300 bg-white px-6 py-3 font-semibold text-slate-800 hover:border-green-600 hover:text-green-700">Free estimate</a>
+      </div>
+    </div>
+    <img
+      src="/wp-content/uploads/2025/05/prius-hood-up-1.jpeg"
+      alt="Toyota Prius in the Tip Top Hybrid shop in Upland, California"
+      width="900"
+      height="600"
+      class="aspect-[4/3] w-full rounded-2xl object-cover shadow-lg"
+    />
+  </section>
+
+  <section class="border-y border-slate-100 bg-white">
+    <div class="mx-auto max-w-3xl px-5 py-12">
+      <h2 class="text-2xl font-extrabold tracking-tight text-slate-900 sm:text-3xl">Why we specialize</h2>
+      <p class="mt-4 text-[1.06rem] leading-[1.8] text-slate-700">
+        Hybrids are not difficult because they are complicated to drive. They are difficult because the systems overlap.
+        A brake warning can come from the actuator, a wheel-speed sensor or the hybrid control system. A no-start can be
+        the 12V battery, the traction pack, the inverter or a relay. A coolant leak can be a hose, a water pump or a head
+        gasket.
+      </p>
+      <p class="mt-4 text-[1.06rem] leading-[1.8] text-slate-700">
+        Specializing means we see those patterns often, we own the diagnostic tools to separate them, and we know which
+        repair is worth doing on a 10-year-old car. It also means we can tell you when the honest answer is “this one
+        can wait” or “this one is not worth fixing.”
+      </p>
+    </div>
+  </section>
+
+  <section class="mx-auto max-w-6xl px-5 py-14">
+    <h2 class="text-2xl font-extrabold tracking-tight text-slate-900 sm:text-3xl">How we work</h2>
+    <div class="mt-8 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
+      {values.map(([t, b], i) => (
+        <div class="rounded-xl border border-slate-200 bg-white p-5 shadow-sm">
+          <span class="mb-3 flex h-8 w-8 items-center justify-center rounded-full bg-green-100 text-sm font-bold text-green-700">{i + 1}</span>
+          <h3 class="mb-2 font-bold text-slate-900">{t}</h3>
+          <p class="text-sm leading-relaxed text-slate-600">{b}</p>
+        </div>
+      ))}
+    </div>
+  </section>
+
+  <section class="bg-slate-900 text-white">
+    <div class="mx-auto grid max-w-6xl gap-10 px-5 py-14 lg:grid-cols-2">
+      <div>
+        <h2 class="text-2xl font-extrabold tracking-tight text-white sm:text-3xl">What we work on</h2>
+        <ul class="mt-6 grid gap-3 sm:grid-cols-2">
+          {SERVICES.map((s) => (
+            <li>
+              <a href={s.href} class="flex items-start gap-2 text-sm text-slate-200 hover:text-green-400">
+                <span class="mt-0.5 text-green-500">✓</span> {s.title}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
+      <div>
+        <h2 class="text-2xl font-extrabold tracking-tight text-white sm:text-3xl">Where we work</h2>
+        <p class="mt-4 text-[1.02rem] leading-[1.8] text-slate-300">
+          Our shop is in Upland, between the 10 and the 210. Customers come from Montclair, Claremont, Pomona,
+          Rancho Cucamonga, Ontario, Chino, San Bernardino, Riverside, Corona and across the Inland Empire.
+        </p>
+        <p class="mt-4 text-[1.02rem] leading-[1.8] text-slate-300">
+          Inland heat is hard on hybrid batteries and inverters. We check cooling airflow and pack temperature as part
+          of the diagnosis, because a repair that ignores heat will come back.
+        </p>
+        <p class="mt-5 text-sm text-slate-400">
+          1894 W 9th St Ste B, Upland, CA 91786 · <a class="font-semibold text-green-400" href={telHref}>{tel}</a>
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <section class="mx-auto max-w-3xl px-5 py-14">
+    <h2 class="text-2xl font-extrabold tracking-tight text-slate-900 sm:text-3xl">Frequently asked questions</h2>
+    <div class="mt-7 divide-y divide-slate-200">
+      {faqs.map((f) => (
+        <details class="group py-4">
+          <summary class="flex cursor-pointer list-none items-start justify-between gap-4 font-semibold text-slate-900">
+            <span>{f.q}</span>
+            <span class="mt-1 flex-none text-green-600 transition group-open:rotate-45">+</span>
+          </summary>
+          <p class="mt-3 text-[1.02rem] leading-[1.8] text-slate-600">{f.a}</p>
+        </details>
+      ))}
+    </div>
+  </section>
+
+  <section class="bg-green-700">
+    <div class="mx-auto flex max-w-5xl flex-col items-start gap-6 px-5 py-12 md:flex-row md:items-center md:justify-between">
+      <div>
+        <h2 class="text-2xl font-extrabold tracking-tight text-white sm:text-3xl">Talk to a hybrid specialist</h2>
+        <p class="mt-2 max-w-2xl text-green-50">Tell us the year, model and symptom. We will tell you what it likely needs and what it costs.</p>
+      </div>
+      <div class="flex flex-none flex-wrap gap-3">
+        <a href={telHref} class="rounded-lg bg-white px-6 py-3 font-bold text-green-800">Call {tel}</a>
+        <a href="/free-estimate/" class="rounded-lg border border-white/60 px-6 py-3 font-semibold text-white hover:bg-white/10">Free estimate</a>
+      </div>
+    </div>
+  </section>
+</div>
